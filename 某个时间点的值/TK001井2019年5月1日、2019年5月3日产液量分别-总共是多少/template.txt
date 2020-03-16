@@ -1,4 +1,11 @@
-replaceInstance NN|replacetime NN|、 NN|replacetime NN|replaceAttribute NN|分 NN|别 NN|是 NN|多 NN|少 NN
-replaceInstance NN|replacetime NN|、 NN|replacetime NN|replaceAttribute NN|总 NN|共 NN|是 NN|多 NN|少 NN
-replaceInstance NN|replacetime NN|和 NN|replacetime NN|replaceAttribute NN|分 NN|别 NN|是 NN|多 NN|少 NN
-replaceInstance NN|replacetime NN|和 NN|replacetime NN|replaceAttribute NN|总 NN|共 NN|是 NN|多 NN|少 NN
+TK001井2019年5月1日、2019年5月3日产液量分别-总共是多少
+#replaceInstance NN|replacetime NN|、 NN|replacetime NN|replaceAttribute NN|分 NN|别 NN|是 NN|多 NN|少 NN
+#replaceInstance NN|replacetime NN|、 NN|replacetime NN|replaceAttribute NN|总 NN|共 NN|是 NN|多 NN|少 NN
+#replaceInstance NN|replacetime NN|和 NN|replacetime NN|replaceAttribute NN|分 NN|别 NN|是 NN|多 NN|少 NN
+#replaceInstance NN|replacetime NN|和 NN|replacetime NN|replaceAttribute NN|总 NN|共 NN|是 NN|多 NN|少 NN
+
+TK001井产液量2019年5月1日、2019年5月3日分别-总共是多少
+*replaceInstance NN|replaceAttribute NN|replacetime NN|、 NN|replacetime NN|分 NN|别 NN|是 NN|多 NN|少 NN
+*replaceInstance NN|replaceAttribute NN|replacetime NN|、 NN|replacetime NN|总 NN|共 NN|是 NN|多 NN|少 NN
+*replaceInstance NN|replaceAttribute NN|replacetime NN|和 NN|replacetime NN|分 NN|别 NN|是 NN|多 NN|少 NN
+*replaceInstance NN|replaceAttribute NN|replacetime NN|和 NN|replacetime NN|总 NN|共 NN|是 NN|多 NN|少 NN

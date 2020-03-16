@@ -54,20 +54,28 @@ with open("result.txt","w",encoding="utf-8") as resultFile:
         for newInstance in replaceInstance:
             for newAttribute in replaceAttribute:
                 for newTime in replaceTime:
+                    if(newTime.startswith("####") or newTime==""):
+                        continue
                     tmpTime = newTime.split("###")
                     for line in open("template.txt", encoding="utf-8"):
                         line = line.strip()
-                        splitWords = line.split("|")
-                        # print(splitWords)
-                        # tmpInstance = ""
-                        # tmpAttribute = ""
-                        # for singleStr in newInstance:
-                        #     tmpInstance = tmpInstance + singleStr + " NN|"
-                        # for singleStr in newAttribute:
-                        #     tmpAttribute = tmpAttribute + singleStr + " NN|"
+                        if(line.startswith("#")):
+                            splitWords = line.split("|")
+                            newLine = newInstance +"|"+ newAttribute+"|" + splitWords[2] + "|" + splitWords[3] + "|" + tmpTime[
+                                0] + "|" + splitWords[5] + "|" + splitWords[6] + "|" + splitWords[7] + "|" + splitWords[8]
+                        elif(line.startswith("*")):
+                            splitWords = line.split("|")
+                            newLine = newInstance+"|"+splitWords[1] + "|" + splitWords[2] +"|" + tmpTime[0]+"|" +newAttribute+"|" \
+                            +splitWords[5] + "|" + splitWords[6] + "|" + splitWords[7] + "|" + splitWords[8]
 
-                        newLine = newInstance +"|"+ newAttribute+"|" + splitWords[2] + "|" + splitWords[3] + "|" + tmpTime[
-                            0] + "|" + splitWords[5] + "|" + splitWords[6] + "|" + splitWords[7] + "|" + splitWords[8]
+                        elif(line.startswith("@")):
+                            splitWords = line.split("|")
+                            newLine=newInstance+"|"+splitWords[1] + "|" +tmpTime[0]+"|"+newAttribute+"|"+splitWords[4] + "|" + splitWords[5] + "|" + splitWords[6] + "|" + splitWords[7]
+                        elif(line.startswith("$")):
+                            splitWords = line.split("|")
+                            newLine=newInstance+"|"+ newAttribute+"|" +splitWords[2] + "|" +tmpTime[0]+"|"+splitWords[4] + "|" + splitWords[5] + "|" + splitWords[6] + "|" + splitWords[7]
+                        else:
+                            continue
                         resultFile.write(newLine)
                         resultFile.write("\n")
 

@@ -1,3 +1,25 @@
-replaceInstance NN|replaceAttribute NN|相 NN|比 NN|replaceTime NN|增 NN|加 NN|多 NN|少 NN
-replaceInstance NN|replaceAttribute NN|相 NN|比 NN|replaceTime NN|减 NN|少 NN|多 NN|少 NN
-replaceInstance NN|replaceAttribute NN|相 NN|比 NN|replaceTime NN|变 NN|化 NN|多 NN|少 NN
+TK001井产液量相/同比昨天增加-减少-变化多少
+#replaceInstance NN|replaceAttribute NN|相 NN|比 NN|replaceTime NN|增 NN|加 NN|多 NN|少 NN
+#replaceInstance NN|replaceAttribute NN|相 NN|比 NN|replaceTime NN|减 NN|少 NN|多 NN|少 NN
+#replaceInstance NN|replaceAttribute NN|相 NN|比 NN|replaceTime NN|变 NN|化 NN|多 NN|少 NN
+#replaceInstance NN|replaceAttribute NN|同 NN|比 NN|replaceTime NN|增 NN|加 NN|多 NN|少 NN
+#replaceInstance NN|replaceAttribute NN|同 NN|比 NN|replaceTime NN|减 NN|少 NN|多 NN|少 NN
+#replaceInstance NN|replaceAttribute NN|同 NN|比 NN|replaceTime NN|变 NN|化 NN|多 NN|少 NN
+
+TK001井相/同比昨天产液量增加-减少-变化多少
+*replaceInstance NN|相 NN|比 NN|replaceTime NN|replaceAttribute NN|增 NN|加 NN|多 NN|少 NN
+*replaceInstance NN|相 NN|比 NN|replaceTime NN|replaceAttribute NN|减 NN|少 NN|多 NN|少 NN
+*replaceInstance NN|相 NN|比 NN|replaceTime NN|replaceAttribute NN|变 NN|化 NN|多 NN|少 NN
+*replaceInstance NN|同 NN|比 NN|replaceTime NN|replaceAttribute NN|增 NN|加 NN|多 NN|少 NN
+*replaceInstance NN|同 NN|比 NN|replaceTime NN|replaceAttribute NN|减 NN|少 NN|多 NN|少 NN
+*replaceInstance NN|同 NN|比 NN|replaceTime NN|replaceAttribute NN|变 NN|化 NN|多 NN|少 NN
+
+TK001井比昨天产液量增加-减少-变化多少
+@replaceInstance NN|比 NN|replaceTime NN|replaceAttribute NN|增 NN|加 NN|多 NN|少 NN
+@replaceInstance NN|比 NN|replaceTime NN|replaceAttribute NN|减 NN|少 NN|多 NN|少 NN
+@replaceInstance NN|比 NN|replaceTime NN|replaceAttribute NN|变 NN|化 NN|多 NN|少 NN
+
+TK001井产液量比昨天增加-减少-变化多少
+$replaceInstance NN|replaceAttribute NN|比 NN|replaceTime NN|增 NN|加 NN|多 NN|少 NN
+$replaceInstance NN|replaceAttribute NN|比 NN|replaceTime NN|减 NN|少 NN|多 NN|少 NN
+$replaceInstance NN|replaceAttribute NN|比 NN|replaceTime NN|变 NN|化 NN|多 NN|少 NN

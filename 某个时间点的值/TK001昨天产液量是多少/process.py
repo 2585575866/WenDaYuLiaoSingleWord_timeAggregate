@@ -66,7 +66,11 @@ with open("result.txt","w",encoding="utf-8") as resultFile:
                             splitWords = line.split("|")
                             newLine = newTime + "|" + newInstance + "|" + splitWords[2] + "|" + newAttribute + "|" + \
                                       splitWords[4] + "|" + splitWords[5] + "|" + splitWords[6]
-
+                        elif(line.startswith("@")):
+                            splitWords = line.split("|")
+                            newLine=newInstance+"|"  +splitWords[1] + "|" +newAttribute +"|" +newTime + "|" +splitWords[4] + "|" + splitWords[5] + "|" + splitWords[6]
+                        else:
+                            continue
                         resultFile.write(newLine)
                         resultFile.write("\n")
 

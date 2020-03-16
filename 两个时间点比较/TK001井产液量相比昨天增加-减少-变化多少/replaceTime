@@ -47,6 +47,16 @@
 2014 Byear_base|年 Eyear_base|8 Bmonth_base|月 Emonth_base|4 Bday_base|日 Eday_base
 2013 Byear_base|年 Eyear_base|9 Bmonth_base|月 Emonth_base|23 Bday_base|日 Eday_base
 
+####相比6月11日####
+3 Bmonth_base|月 Emonth_base
+2 Bmonth_base|月 Emonth_base
+5 Bmonth_base|月 Emonth_base
+6 Bmonth_base|月 Emonth_base|6 Bday_base|日 Eday_base
+10 Bmonth_base|月 Emonth_base|11 Bday_base|日 Eday_base
+7 Bmonth_base|月 Emonth_base|4 Bday_base|日 Eday_base
+9 Bmonth_base|月 Emonth_base|23 Bday_base|日 Eday_base
+
+
 ####相比20190223####
 20190223 date_base
 20190113 date_base

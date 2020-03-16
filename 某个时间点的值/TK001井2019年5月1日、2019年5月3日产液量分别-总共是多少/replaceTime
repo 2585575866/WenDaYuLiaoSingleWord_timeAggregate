@@ -55,11 +55,11 @@
 2017 Byear|年 Eyear|9 Bmonth|月 Emonth|1 Bday|日 Eday###21 Bday|日 Eday
 2013 Byear|年 Eyear|5 Bmonth|月 Emonth|1 Bday|日 Eday###18 Bday|日 Eday
 
-####20190501####
+####20190501和20190501####
 20190501 date###20180405 date
 20160306 date###20170309 date
 
-####2019/05/01####
+####2019/05/01和 2019/05/01####
 2018 year|/ NN|10 month|/ NN|9 day###2019 year|/ NN|3 month|/ NN|2 day
 2018 year|/ NN|10 month|/ NN|9 day###10 day
 

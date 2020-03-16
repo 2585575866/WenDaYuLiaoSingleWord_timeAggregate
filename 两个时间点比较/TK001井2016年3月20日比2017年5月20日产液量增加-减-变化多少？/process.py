@@ -76,8 +76,13 @@ with open("result.txt","w",encoding="utf-8") as resultFile:
                             newLine = newInstance + "|" + newAttribute + "|" + tmpTime[0] + "|" + splitWords[3] + "|" + \
                                       splitWords[
                                           4] + "|" + tmpTime[1] + "|" + splitWords[6] + "|" + splitWords[7] + "|" + \
-                                      splitWords[
-                                          8] + "|" + splitWords[9]
+                                      splitWords[8] + "|" + splitWords[9]
+                        elif(line.startswith("$")):
+                            splitWords = line.split("|")
+                            newLine=newInstance+"|"+tmpTime[0]+"|"+ splitWords[2]+"|"+ splitWords[3]+tmpTime[1]+"|"+newAttribute+ \
+                                "|"+splitWords[6] + "|" + splitWords[7] + "|" + splitWords[8] + "|" + splitWords[9]
+                        else:
+                            continue
                         resultFile.write(newLine)
                         resultFile.write("\n")
 

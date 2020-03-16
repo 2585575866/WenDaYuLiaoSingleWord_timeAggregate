@@ -51,21 +51,25 @@ with open("result.txt","w",encoding="utf-8") as resultFile:
         for newInstance in replaceInstance:
             for newAttribute in replaceAttribute:
                 for newTime in replaceTime:
+                    if(newTime.startswith("####") or newTime == ""):
+                        continue
                     tmpTime = newTime.split("###")
                     for line in open("template.txt", encoding="utf-8"):
                         line = line.strip()
-                        splitWords = line.split("|")
-                        # print(splitWords)
-                        # tmpInstance = ""
-                        # tmpAttribute = ""
-                        # for singleStr in newInstance:
-                        #     tmpInstance = tmpInstance + singleStr + " NN|"
-                        # for singleStr in newAttribute:
-                        #     tmpAttribute = tmpAttribute + singleStr + " NN|"
 
-                        newLine = newInstance+"|" + tmpTime[0] + "|" + splitWords[2] + "|" + tmpTime[
-                            1] + "|" + newAttribute+"|" + splitWords[5] + "|" + splitWords[6] + "|" + splitWords[7] + "|" + \
-                                  splitWords[8] + "|" + splitWords[9]
+
+                        if(line.startswith("#")):
+                            splitWords = line.split("|")
+                            newLine = newInstance+"|" + tmpTime[0] + "|" + splitWords[2] + "|" + tmpTime[
+                                1] + "|" + newAttribute+"|" + splitWords[5] + "|" + splitWords[6] + "|" + splitWords[7] + "|" + \
+                                      splitWords[8] + "|" + splitWords[9]
+                        elif(line.startswith("*")):
+                            splitWords = line.split("|")
+                            newLine= newInstance+"|" +newAttribute+"|" +tmpTime[0] + "|" +splitWords[3] + "|"+ \
+                                     tmpTime[1] + "|" + splitWords[5] + "|" + splitWords[6] + "|" + splitWords[7] + "|" + \
+                                      splitWords[8] + "|" + splitWords[9]
+                        else:
+                            continue
                         resultFile.write(newLine)
                         resultFile.write("\n")
 

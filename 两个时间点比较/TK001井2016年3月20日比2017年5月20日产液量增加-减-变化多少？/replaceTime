@@ -39,6 +39,13 @@
 2013 Byear|年 Eyear|4 Bmonth|月 Emonth|17 Bday|日 Eday###6 Bday_base|日 Eday_base
 2014 Byear|年 Eyear|5 Bmonth|月 Emonth|16 Bday|日 Eday###11 Bday_base|日 Eday_base
 
+####2019年8月10日比10月23日####
+2010 Byear|年 Eyear|1 Bmonth|月 Emonth|11 Bday|日 Eday###7 Bmonth_base|月 Emonth_base|23 Bday_base|日 Eday_base
+2011 Byear|年 Eyear|2 Bmonth|月 Emonth|19 Bday|日 Eday###8 Bmonth_base|月 Emonth_base|6 Bday_base|日 Eday_base
+2012 Byear|年 Eyear|3 Bmonth|月 Emonth|18 Bday|日 Eday###9 Bmonth_base|月 Emonth_base|2 Bday_base|日 Eday_base
+2013 Byear|年 Eyear|4 Bmonth|月 Emonth|17 Bday|日 Eday###10 Bmonth_base|月 Emonth_base|6 Bday_base|日 Eday_base
+2014 Byear|年 Eyear|5 Bmonth|月 Emonth|16 Bday|日 Eday###11 Bmonth_base|月 Emonth_base|11 Bday_base|日 Eday_base
+
 ####今年比去年####
 今 Byear|年 Eyear###去 Byear_base|年 Eyear_base
 今 Byear|年 Eyear###前 Byear_base|年 Eyear_base
@@ -102,8 +109,17 @@
 昨 Bdate|天 Edate###今 Bdate_base|天 Edate_base
 
 ####2019/5/6比2019/7/6####
+2017 year|/ NN|4 month###2019 year_base|/ NN|7 month_base
+2018 year|/ NN|5 month###2020 year_base|/ NN|6 month_base
 2019 year|/ NN|5 month|/ NN|6 day###2019 year_base|/ NN|7 month_base|/ NN|6 day_base
 2018 year|/ NN|4 month|/ NN|11 day###2019 year_base|/ NN|6 month_base|/ NN|9 day_base
+
+####2019-5-6比2019-7-6####
+2017 year|- NN|4 month###2019 year_base|- NN|7 month_base
+2018 year|- NN|5 month###2020 year_base|- NN|6 month_base
+2019 year|- NN|5 month|- NN|6 day###2019 year_base|- NN|7 month_base|- NN|6 day_base
+2018 year|- NN|4 month|- NN|11 day###2019 year_base|- NN|6 month_base|- NN|9 day_base
+
 
 ####20190201比20190223####
 20190201 date###20190223 date_base

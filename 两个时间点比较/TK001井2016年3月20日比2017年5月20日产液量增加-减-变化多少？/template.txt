@@ -1,12 +1,25 @@
+TK001井2016年3月20日比2017年5月20日产液量增加-减-变化多少？
 #replaceInstance NN|replceTime NN|比 NN|replaceTime NN|replaceAttribute NN|增 NN|加 NN|多 NN|少 NN
 #replaceInstance NN|replceTime NN|比 NN|replaceTime NN|replaceAttribute NN|减 NN|少 NN|多 NN|少 NN
 #replaceInstance NN|replceTime NN|比 NN|replaceTime NN|replaceAttribute NN|变 NN|化 NN|多 NN|少 NN
+
+TK001井产液量2016年3月20日比2017年5月20日增加-减-变化多少？
 *replaceInstance NN|replaceAttribute NN|replceTime NN|比 NN|replaceTime NN|增 NN|加 NN|多 NN|少 NN
 *replaceInstance NN|replaceAttribute NN|replceTime NN|比 NN|replaceTime NN|减 NN|少 NN|多 NN|少 NN
 *replaceInstance NN|replaceAttribute NN|replceTime NN|比 NN|replaceTime NN|变 NN|化 NN|多 NN|少 NN
+
+TK001井产液量2016年3月20日相-同比2017年5月20日增加-减-变化多少？
 @replaceInstance NN|replaceAttribute NN|replceTime NN|相 NN|比 NN|replaceTime NN|增 NN|加 NN|多 NN|少 NN
 @replaceInstance NN|replaceAttribute NN|replceTime NN|同 NN|比 NN|replaceTime NN|增 NN|加 NN|多 NN|少 NN
 @replaceInstance NN|replaceAttribute NN|replceTime NN|相 NN|比 NN|replaceTime NN|减 NN|少 NN|多 NN|少 NN
 @replaceInstance NN|replaceAttribute NN|replceTime NN|同 NN|比 NN|replaceTime NN|减 NN|少 NN|多 NN|少 NN
 @replaceInstance NN|replaceAttribute NN|replceTime NN|相 NN|比 NN|replaceTime NN|变 NN|化 NN|多 NN|少 NN
 @replaceInstance NN|replaceAttribute NN|replceTime NN|同 NN|比 NN|replaceTime NN|变 NN|化 NN|多 NN|少 NN
+
+TK001井2016年3月20日相-同比2017年5月20日产液量增加-减-变化多少？
+$replaceInstance NN|replceTime NN|同 NN|比 NN|replaceTime NN|replaceAttribute NN|增 NN|加 NN|多 NN|少 NN
+$replaceInstance NN|replceTime NN|同 NN|比 NN|replaceTime NN|replaceAttribute NN|减 NN|少 NN|多 NN|少 NN
+$replaceInstance NN|replceTime NN|同 NN|比 NN|replaceTime NN|replaceAttribute NN|变 NN|化 NN|多 NN|少 NN
+$replaceInstance NN|replceTime NN|相 NN|比 NN|replaceTime NN|replaceAttribute NN|增 NN|加 NN|多 NN|少 NN
+$replaceInstance NN|replceTime NN|相 NN|比 NN|replaceTime NN|replaceAttribute NN|减 NN|少 NN|多 NN|少 NN
+$replaceInstance NN|replceTime NN|相 NN|比 NN|replaceTime NN|replaceAttribute NN|变 NN|化 NN|多 NN|少 NN

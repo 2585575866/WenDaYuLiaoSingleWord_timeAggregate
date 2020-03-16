@@ -1,2 +1,8 @@
+TK001昨天产液量是多少
 #repacleInstance NN|replaceTime NN|的 NN|replaceAttribute NN|是 NN|多 NN|少  NN
+
+昨天TK001产液量是多少
 *replaceTime NN|repacleInstance NN|的 NN|replaceAttribute NN|是 NN|多 NN|少  NN
+
+TK001产液量昨天是多少
+@repacleInstance NN|的 NN|replaceAttribute NN|replaceTime NN|是 NN|多 NN|少  NN
