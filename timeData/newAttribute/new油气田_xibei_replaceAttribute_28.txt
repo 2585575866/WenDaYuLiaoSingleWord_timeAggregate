@@ -1,0 +1,5 @@
+新 NN|井 NN|年 NN|产 NN|油 NN|量 NN
+新 NN|井 NN|年 NN|产 NN|液 NN|量 NN
+新 NN|井 NN|开 NN|井 NN|数 NN
+老 NN|区 NN|综 NN|合 NN|含 NN|水 NN
+输 NN|出 NN|格 NN|式 NN

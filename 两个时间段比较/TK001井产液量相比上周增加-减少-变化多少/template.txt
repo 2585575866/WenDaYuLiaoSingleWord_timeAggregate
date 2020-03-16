@@ -1,0 +1,3 @@
+replaceInstance NN|replaceAttribute NN|相 NN|比 NN|replaceTime NN|增 NN|加 NN|多 NN|少 NN
+replaceInstance NN|replaceAttribute NN|相 NN|比 NN|replaceTime NN|减 NN|少 NN|多 NN|少 NN
+replaceInstance NN|replaceAttribute NN|相 NN|比 NN|replaceTime NN|变 NN|化 NN|多 NN|少 NN

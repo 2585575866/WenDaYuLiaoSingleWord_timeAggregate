@@ -1,0 +1,6 @@
+艾 NN|丁 NN|油 NN|田 NN
+亚 NN|松 NN|迪 NN|气 NN|田 NN
+碳 NN|酸 NN|岩 NN|气 NN|藏 NN
+碎 NN|屑 NN|岩 NN|气 NN|藏 NN
+西 NN|北 NN|油 NN|田 NN|分 NN|公 NN|司 NN
+准 NN|噶 NN|尔 NN

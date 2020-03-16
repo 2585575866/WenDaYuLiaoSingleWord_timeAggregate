@@ -1,0 +1,12 @@
+####这周比上周####
+这 Bweek|周 Eweek###上 Bweek_base|周 Eweek_base
+这 Bweek|周 Eweek###上 Bweek_base|上 Mweek_base|周 Eweek_base
+上 Bweek|周 Eweek###上 Bweek_base|上 Mweek_base|周 Eweek_base
+
+####这两月比上两月####
+这 Bmonth|两 Mmonth|月 Emonth###上 Bmonth_base|两 Mmonth_base|月 Emonth_base
+这 Bmonth|两 Mmonth|月 Emonth###上 Bmonth_base|三 Mmonth_base|月 Emonth_base
+
+####这两年比上两年####
+这 Byear|两 Myear|年 Eyear###上 Byear_base|两 Myear_base|年 Eyear_base
+这 Byear|两 Myear|年 Eyear###上 Byear_base|三 Myear_base|年 Eyear_base

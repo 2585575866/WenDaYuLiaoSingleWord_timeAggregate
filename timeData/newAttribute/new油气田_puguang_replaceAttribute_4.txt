@@ -1,0 +1,3 @@
+年 NN|产 NN|气 NN|量 NN
+年 NN|产 NN|硫 NN|磺 NN
+累 NN|自 NN|用 NN|气 NN|量 NN

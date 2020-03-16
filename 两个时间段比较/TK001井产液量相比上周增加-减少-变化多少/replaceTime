@@ -1,0 +1,11 @@
+####比上周####
+上 Bweek_base|周 Eweek_base
+上 Bweek_base|上 Mweek_base|周 Eweek_base
+
+####比上两月####
+上 Bmonth_base|两 Mmonth_base|月 Emonth_base
+上 Bmonth_base|三 Mmonth_base|月 Emonth_base
+
+####比上两年####
+上 Byear_base|两 Myear_base|年 Eyear_base
+上 Byear_base|三 Myear_base|年 Eyear_base

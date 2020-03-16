@@ -1,0 +1,16 @@
+年 NN|产 NN|凝 NN|析 NN|油 NN|量 NN
+年 NN|产 NN|流 NN|物 NN
+年 NN|产 NN|液 NN|量 NN
+新 NN|井 NN|标 NN|志 NN
+日 NN|注 NN|水 NN|平 NN
+日 NN|注 NN|水 NN|量 NN
+日 NN|注 NN|能 NN|力 NN
+昨 NN|天 NN|产 NN|油 NN|量 NN
+是 NN|否 NN|有 NN|效 NN
+是 NN|否 NN|正 NN|注 NN|稀 NN|油 NN
+月 NN|产 NN|水 NN|量 NN
+月 NN|累 NN|注 NN|气 NN|量 NN
+月 NN|累 NN|积 NN|增 NN|油 NN|量 NN
+有 NN|效 NN|油 NN|标 NN|记 NN|代 NN|码 NN
+有 NN|效 NN|液 NN|标 NN|记 NN
+本 NN|轮 NN|采 NN|油 NN|天 NN|数 NN

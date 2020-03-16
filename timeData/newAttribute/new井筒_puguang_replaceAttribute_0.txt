@@ -1,0 +1,20 @@
+1 NN|号 NN|泵 NN|冲 NN
+三 NN|级 NN|节 NN|流 NN|温 NN|度 NN
+三 NN|采 NN|类 NN|型 NN
+月 NN|产 NN|气 NN|量 NN
+月 NN|产 NN|水 NN
+月 NN|产 NN|水 NN|量 NN
+月 NN|产 NN|油 NN|量 NN
+月 NN|初 NN|井 NN|深 NN
+月 NN|放 NN|空 NN|气 NN|量 NN
+月 NN|注 NN|水 NN|量 NN
+月 NN|进 NN|尺 NN
+未 NN|开 NN|井 NN|原 NN|因 NN
+氮 NN|气 NN
+氯 NN|根 NN|含 NN|量 NN
+班 NN|次 NN
+生 NN|产 NN|天 NN|数 NN
+生 NN|产 NN|情 NN|况 NN
+钻 NN|压 NN
+非 NN|钻 NN|井 NN|时 NN|间 NN|-- NN|搬 NN|安 NN|与 NN|准 NN|备 NN
+额 NN|定 NN|排 NN|量 NN

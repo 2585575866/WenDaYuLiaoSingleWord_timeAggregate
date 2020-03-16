@@ -1,0 +1,40 @@
+####近几【天、周、旬、月、年】####
+近 Bweek_recent|一 Mweek_recent|周 Eweek_recent
+近 Bdecade_recent|一 Mdecade_recent|旬 Edecade_recent
+近 Bmonth_recent|两 Mmonth_recent|月 Emonth_recent
+近 Bday_recent|两 Mday_recent|天 Eday_recent
+近 Bday_recent|三 Mday_recent|天 Eday_recent
+近 Byear_recent|三 Myear_recent|年 Eyear_recent
+近 Byear_recent|五 Myear_recent|年 Eyear_recent
+
+####本【周、月】####
+本 Bweek_contain|周 Eweek_contain
+本 Bmonth_contain|月 Emonth_contain
+
+####这几【天、周、月、年】####
+这 Bweek_contain|周 Eweek_contain
+这 Bweek_contain|两 Mweek_contain|周 Eweek_contain
+这 Bday_contain|两 Mday_contain|天 Eday_contain
+这 Bmonth_contain|两 Mmonth_contain|个 Mmonth_contain|月 Emonth_contain
+这 Byear_contain|两 Myear_contain|年 Eyear_contain
+这 Bmonth_contain|个 Mmonth_contain|月 Emonth_contain
+
+####前几【天、周、月、年】####
+前 Bday_before|两 Mday_before|天 Eday_before
+前 Bday_before|三 Mday_before|天 Eday_before
+前 Bweek_before|一 Mweek_before|周 Eweek_before
+前 Bweek_before|两 Mweek_before|周 Eweek_before
+前 Bdecade_before|一 Mdecade_before|旬 Edecade_before
+前 Bdecade_before|两 Mdecade_before|旬 Edecade_before
+前 Bmonth_before|一 Mmonth_before|月 Emonth_before
+前 Bmonth_before|两 Mmonth_before|月 Emonth_before
+前 Byear_before|一 Myear_before|年 Eyear_before
+前 Byear_before|两 Myear_before|年 Eyear_before
+
+####上几【周、月】####
+上 Bweek_contain|周 Eweek_contain
+上 Bweek_contain|个 Mweek_contain|周 Eweek_contain
+上 Bweek_contain|上 Mweek_contain|周 Eweek_contain
+上 Bmonth_contain|月 Emonth_contain
+上 Bmonth_contain|个 Mmonth_contain|月 Emonth_contain
+上 Bmonth_contain|上 Mmonth_contain|月 Emonth_contain

@@ -1,0 +1,7 @@
+主 NN|要 NN|修 NN|理 NN|内 NN|容 NN
+事 NN|件 NN|类 NN|型 NN
+合 NN|同 NN|金 NN|额 NN
+备 NN|注 NN
+安 NN|装 NN|地 NN|点 NN
+采 NN|集 NN|时 NN|间 NN
+预 NN|算 NN|费 NN|用 NN

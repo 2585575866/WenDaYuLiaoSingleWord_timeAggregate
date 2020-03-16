@@ -1,0 +1,6 @@
+储 NN|量 NN|计 NN|算 NN|方 NN|法 NN|及 NN|参 NN|数 NN|数 NN|据 NN|记 NN|录 NN|标 NN|识 NN
+取 NN|芯 NN|井 NN|数 NN
+含 NN|气 NN|高 NN|度 NN
+含 NN|油 NN|高 NN|度 NN
+采 NN|气 NN|井 NN|数 NN
+采 NN|油 NN|井 NN|数 NN

@@ -1,0 +1,42 @@
+X_ NN|经 NN|度 NN
+X_ NN|经 NN|度 NN|( NN|终 NN|点 NN|) NN
+X_ NN|经 NN|度 NN|( NN|起 NN|始 NN|) NN
+Z_ NN|高 NN|程 NN|( NN|起 NN|始 NN|) NN
+事 NN|件 NN|ID NN
+位 NN|置 NN|级 NN|别 NN
+修 NN|复 NN|日 NN|期 NN
+修 NN|复 NN|状 NN|态 NN
+修 NN|改 NN|日 NN|期 NN
+公 NN|用 NN|数 NN|据 NN
+内 NN|壁 NN|/ NN|外 NN|壁 NN
+方 NN|位 NN
+施 NN|工 NN|标 NN|段 NN
+是 NN|否 NN|有 NN|气 NN|孔 NN
+最 NN|大 NN|过 NN|盈 NN|量 NN
+最 NN|近 NN|磁 NN|标 NN|记 NN|名 NN|称 NN
+月 NN|份 NN
+柴 NN|油 NN|量 NN
+检 NN|测 NN|事 NN|件 NN|ID NN
+检 NN|测 NN|方 NN|法 NN
+检 NN|测 NN|精 NN|度 NN
+检 NN|测 NN|里 NN|程 NN
+段 NN|塞 NN|长 NN|度 NN
+气 NN|量 NN
+测 NN|径 NN|仪 NN|型 NN|号 NN
+测 NN|量 NN|壁 NN|厚 NN
+深 NN|度 NN|百 NN|分 NN|比 NN
+清 NN|管 NN|介 NN|质 NN
+清 NN|管 NN|球 NN|（ NN|器 NN|） NN|型 NN|号 NN
+清 NN|管 NN|结 NN|束 NN|相 NN|对 NN|位 NN|置 NN
+清 NN|管 NN|长 NN|度 NN
+焊 NN|缝 NN|缺 NN|陷 NN|描 NN|述 NN
+焊 NN|缝 NN|缺 NN|陷 NN|类 NN|型 NN
+焊 NN|缝 NN|记 NN|录 NN
+爆 NN|裂 NN|压 NN|力 NN
+爆 NN|裂 NN|压 NN|力 NN|等 NN|级 NN
+环 NN|向 NN|终 NN|点 NN|方 NN|向 NN
+环 NN|焊 NN|缝 NN|事 NN|件 NN|ID NN
+现 NN|场 NN|监 NN|理 NN
+金 NN|属 NN|损 NN|失 NN|长 NN|度 NN
+项 NN|目 NN|工 NN|程 NN
+预 NN|膜 NN|时 NN|间 NN

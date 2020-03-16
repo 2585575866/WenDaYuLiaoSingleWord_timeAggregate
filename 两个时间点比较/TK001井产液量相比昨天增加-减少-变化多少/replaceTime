@@ -1,0 +1,60 @@
+####相比【昨、前】天####
+昨 Bdate_base|天 Edate_base
+前 Bdate_base|天 Edate_base
+
+####相比【去、前】年####
+去 Byear_base|年 Eyear_base
+前 Byear_base|年 Eyear_base
+
+####相比【去、前】年10月####
+今 Byear_base|年 Eyear_base|10 Bmonth_base|月 Emonth_base
+去 Byear_base|年 Eyear_base|7 Bmonth_base|月 Emonth_base
+
+####比【今、去】年10月12日####
+今 Byear_base|年 Eyear_base|10 Bmonth_base|月 Emonth_base|12 Bday_base|日 Eday_base
+去 Byear_base|年 Eyear_base|5 Bmonth_base|月 Emonth_base|6 Bday_base|日 Eday_base
+
+####相比【这，上】个月####
+这 Bmonth_base|个 Mmonth_base|月 Emonth_base
+上 Bmonth_base|个 Mmonth_base|月 Emonth_base
+
+####相比【这，上】个月11日####
+这 Bmonth_base|个 Mmonth_base|月 Emonth_base|11 Bday_base|日 Bday_base
+上 Bmonth_base|个 Mmonth_base|月 Emonth_base|11 Bday_base|日 Bday_base
+
+####相比2018年####
+2020 Byear_base|年 Eyear_base
+2019 Byear_base|年 Eyear_base
+2018 year_base
+2016 year_base
+
+####相比2018年6月####
+2019 Byear_base|年 Eyear_base|8 Bmonth_base|月 Emonth_base
+2019 Byear_base|年 Eyear_base|2 Bmonth_base|月 Emonth_base
+2018 Byear_base|年 Eyear_base|6 Bmonth_base|月 Emonth_base
+2016 Byear_base|年 Eyear_base|2 Bmonth_base|月 Emonth_base
+2013 Byear_base|年 Eyear_base|8 Bmonth_base|月 Emonth_base
+2019 Byear_base|年 Eyear_base|11 Bmonth_base|月 Emonth_base
+2019 Byear_base|年 Eyear_base|5 Bmonth_base|月 Emonth_base
+2018 Byear_base|年 Eyear_base|12 Bmonth_base|月 Emonth_base
+
+####相比2018年6月11日####
+2019 Byear_base|年 Eyear_base|3 Bmonth_base|月 Emonth_base|4 Bday_base|日 Eday_base
+2018 Byear_base|年 Eyear_base|4 Bmonth_base|月 Emonth_base|6 Bday_base|日 Eday_base
+2017 Byear_base|年 Eyear_base|5 Bmonth_base|月 Emonth_base|2 Bday_base|日 Eday_base
+2016 Byear_base|年 Eyear_base|6 Bmonth_base|月 Emonth_base|6 Bday_base|日 Eday_base
+2015 Byear_base|年 Eyear_base|7 Bmonth_base|月 Emonth_base|11 Bday_base|日 Eday_base
+2014 Byear_base|年 Eyear_base|8 Bmonth_base|月 Emonth_base|4 Bday_base|日 Eday_base
+2013 Byear_base|年 Eyear_base|9 Bmonth_base|月 Emonth_base|23 Bday_base|日 Eday_base
+
+####相比20190223####
+20190223 date_base
+20190113 date_base
+
+####相比2019/7/6####
+2019 year_base|/ NN|7 month_base|/ NN|6 day_base
+2019 year_base|/ NN|6 month_base|/ NN|9 day_base
+
+####相比2019-7-6####
+2019 year_base|- NN|7 month_base
+2019 year_base|- NN|6 month_base|- NN|9 day_base

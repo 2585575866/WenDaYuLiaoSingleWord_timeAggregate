@@ -1,0 +1,134 @@
+####2019年到2020年####
+2019 Byear_start|年 Eyear_start###2020 Byear_start|年 Eyear_start
+2018 Byear_start|年 Eyear_start###2019 Byear_start|年 Eyear_start
+2017 Byear_start|年 Eyear_start###2018 Byear_start|年 Eyear_start
+2015 Byear_start|年 Eyear_start###2017 Byear_start|年 Eyear_start
+2012 Byear_start|年 Eyear_start###2015 Byear_start|年 Eyear_start
+2018 Byear_start|年 Eyear_start###2020 Byear_start|年 Eyear_start
+2018 Byear_start|年 Eyear_start###2019 Byear_start|年 Eyear_start
+
+####2019年5月到2020年8月####
+2019 Byear_start|年 Eyear_start|5 Bmonth_start|月 Emonth_start###2019 Byear_end|年 Eyear_end|8 Bmonth_end|月 Emonth_end
+2018 Byear_start|年 Eyear_start|3 Bmonth_start|月 Emonth_start###2018 Byear_end|年 Eyear_end|12 Bmonth_end|月 Emonth_end
+2017 Byear_start|年 Eyear_start|9 Bmonth_start|月 Emonth_start###2019 Byear_end|年 Eyear_end|3 Bmonth_end|月 Emonth_end
+2015 Byear_start|年 Eyear_start|5 Bmonth_start|月 Emonth_start###2016 Byear_end|年 Eyear_end|8 Bmonth_end|月 Emonth_end
+2012 Byear_start|年 Eyear_start|5 Bmonth_start|月 Emonth_start###2014 Byear_end|年 Eyear_end|3 Bmonth_end|月 Emonth_end
+2018 Byear_start|年 Eyear_start|1 Bmonth_start|月 Emonth_start###2019 Byear_end|年 Eyear_end|12 Bmonth_end|月 Emonth_end
+2018 Byear_start|年 Eyear_start|2 Bmonth_start|月 Emonth_start###2019 Byear_end|年 Eyear_end|11 Bmonth_end|月 Emonth_end
+2018 Byear_start|年 Eyear_start|3 Bmonth_start|月 Emonth_start###2018 Byear_end|年 Eyear_end|10 Bmonth_end|月 Emonth_end
+2018 Byear_start|年 Eyear_start|4 Bmonth_start|月 Emonth_start###2019 Byear_end|年 Eyear_end|1 Bmonth_end|月 Emonth_end
+2018 Byear_start|年 Eyear_start|5 Bmonth_start|月 Emonth_start###2019 Byear_end|年 Eyear_end|2 Bmonth_end|月 Emonth_end
+2017 Byear_start|年 Eyear_start|6 Bmonth_start|月 Emonth_start###2018 Byear_end|年 Eyear_end|3 Bmonth_end|月 Emonth_end
+2016 Byear_start|年 Eyear_start|7 Bmonth_start|月 Emonth_start###2017 Byear_end|年 Eyear_end|4 Bmonth_end|月 Emonth_end
+2015 Byear_start|年 Eyear_start|8 Bmonth_start|月 Emonth_start###2016 Byear_end|年 Eyear_end|5 Bmonth_end|月 Emonth_end
+2014 Byear_start|年 Eyear_start|9 Bmonth_start|月 Emonth_start###2015 Byear_end|年 Eyear_end|6 Bmonth_end|月 Emonth_end
+2013 Byear_start|年 Eyear_start|10 Bmonth_start|月 Emonth_start###2014 Byear_end|年 Eyear_end|7 Bmonth_end|月 Emonth_end
+2012 Byear_start|年 Eyear_start|11 Bmonth_start|月 Emonth_start###2013 Byear_end|年 Eyear_end|8 Bmonth_end|月 Emonth_end
+2011 Byear_start|年 Eyear_start|12 Bmonth_start|月 Emonth_start###2012 Byear_end|年 Eyear_end|9 Bmonth_end|月 Emonth_end
+2010 Byear_start|年 Eyear_start|1 Bmonth_start|月 Emonth_start###2011 Byear_end|年 Eyear_end|10 Bmonth_end|月 Emonth_end
+
+####2019年5月6日到2020年8月8日####
+2019 Byear_start|年 Eyear_start|5 Bmonth_start|月 Emonth_start|1 Eday_start|###2019 Byear_end|年 Eyear_end|8 Bmonth_end|月 Emonth_end|9 Bday_end|日 Eday_end
+2018 Byear_start|年 Eyear_start|3 Bmonth_start|月 Emonth_start|2 Eday_start|###2018 Byear_end|年 Eyear_end|11 Bmonth_end|月 Emonth_end|6 Bday_end|日 Eday_end
+2017 Byear_start|年 Eyear_start|9 Bmonth_start|月 Emonth_start|3 Eday_start|###2019 Byear_end|年 Eyear_end|3 Bmonth_end|月 Emonth_end|7 Bday_end|日 Eday_end
+2015 Byear_start|年 Eyear_start|5 Bmonth_start|月 Emonth_start|4 Eday_start|###2016 Byear_end|年 Eyear_end|8 Bmonth_end|月 Emonth_end|4 Bday_end|日 Eday_end
+2012 Byear_start|年 Eyear_start|5 Bmonth_start|月 Emonth_start|5 Eday_start|###2014 Byear_end|年 Eyear_end|3 Bmonth_end|月 Emonth_end|3 Bday_end|日 Eday_end
+2018 Byear_start|年 Eyear_start|12 Bmonth_start|月 Emonth_start|6 Eday_start|###2019 Byear_end|年 Eyear_end|1 Bmonth_end|月 Emonth_end|2 Bday_end|日 Eday_end
+2018 Byear_start|年 Eyear_start|2 Bmonth_start|月 Emonth_start|12 Eday_start|###2019 Byear_end|年 Eyear_end|12 Bmonth_end|月 Emonth_end|1 Bday_end|日 Eday_end
+2018 Byear_start|年 Eyear_start|3 Bmonth_start|月 Emonth_start|8 Eday_start|###2018 Byear_end|年 Eyear_end|1 Bmonth_end|月 Emonth_end|11 Bday_end|日 Eday_end
+2018 Byear_start|年 Eyear_start|4 Bmonth_start|月 Emonth_start|9 Eday_start|###2019 Byear_end|年 Eyear_end|10 Bmonth_end|月 Emonth_end|6 Bday_end|日 Eday_end
+2018 Byear_start|年 Eyear_start|5 Bmonth_start|月 Emonth_start|1 Eday_start|###2019 Byear_end|年 Eyear_end|2 Bmonth_end|月 Emonth_end|8 Bday_end|日 Eday_end
+2017 Byear_start|年 Eyear_start|6 Bmonth_start|月 Emonth_start|2 Eday_start|###2018 Byear_end|年 Eyear_end|3 Bmonth_end|月 Emonth_end|2 Bday_end|日 Eday_end
+2016 Byear_start|年 Eyear_start|7 Bmonth_start|月 Emonth_start|10 Eday_start|###2017 Byear_end|年 Eyear_end|4 Bmonth_end|月 Emonth_end|6 Bday_end|日 Eday_end
+2015 Byear_start|年 Eyear_start|8 Bmonth_start|月 Emonth_start|4 Eday_start|###2016 Byear_end|年 Eyear_end|5 Bmonth_end|月 Emonth_end|7 Bday_end|日 Eday_end
+2014 Byear_start|年 Eyear_start|9 Bmonth_start|月 Emonth_start|5 Eday_start|###2015 Byear_end|年 Eyear_end|6 Bmonth_end|月 Emonth_end|8 Bday_end|日 Eday_end
+2013 Byear_start|年 Eyear_start|11 Bmonth_start|月 Emonth_start|6 Eday_start|###2014 Byear_end|年 Eyear_end|7 Bmonth_end|月 Emonth_end|2 Bday_end|日 Eday_end
+2012 Byear_start|年 Eyear_start|10 Bmonth_start|月 Emonth_start|7 Eday_start|###2013 Byear_end|年 Eyear_end|8 Bmonth_end|月 Emonth_end|12 Bday_end|日 Eday_end
+2011 Byear_start|年 Eyear_start|1 Bmonth_start|月 Emonth_start|8 Eday_start|###2012 Byear_end|年 Eyear_end|9 Bmonth_end|月 Emonth_end|10 Bday_end|日 Eday_end
+2010 Byear_start|年 Eyear_start|5 Bmonth_start|月 Emonth_start|9 Eday_start|###2011 Byear_end|年 Eyear_end|1 Bmonth_end|月 Emonth_end|7 Bday_end|日 Eday_end
+2019 Byear_start|年 Eyear_start|6 Bmonth_start|月 Emonth_start|8 Eday_start|###2020 Byear_end|年 Eyear_end|11 Bmonth_end|月 Emonth_end|9 Bday_end|日 Eday_end
+2019 Byear_start|年 Eyear_start|5 Bmonth_start|月 Emonth_start|9 Eday_start|###2020 Byear_end|年 Eyear_end|10 Bmonth_end|月 Emonth_end|7 Bday_end|日 Eday_end
+2018 Byear_start|年 Eyear_start|4 Bmonth_start|月 Emonth_start|10 Eday_start|###2020 Byear_end|年 Eyear_end|8 Bmonth_end|月 Emonth_end|9 Bday_end|日 Eday_end
+
+####2019年5月到8月####
+2019 Byear_start|年 Eyear_start|5 Bmonth_start|月 Emonth_start###8 Bmonth_end|月 Emonth_end
+2012 Byear_start|年 Eyear_start|3 Bmonth_start|月 Emonth_start###5 Bmonth_end|月 Emonth_end
+2016 Byear_start|年 Eyear_start|8 Bmonth_start|月 Emonth_start###12 Bmonth_end|月 Emonth_end
+
+####2019年5月6日到8日####
+2010 Byear_start|年 Eyear_start|5 Bmonth_start|月 Emonth_start|9 Eday_start|###7 Bday_end|日 Eday_end
+2019 Byear_start|年 Eyear_start|6 Bmonth_start|月 Emonth_start|8 Eday_start|###10 Bday_end|日 Eday_end
+2019 Byear_start|年 Eyear_start|5 Bmonth_start|月 Emonth_start|9 Eday_start|###7 Bday_end|日 Eday_end
+2018 Byear_start|年 Eyear_start|4 Bmonth_start|月 Emonth_start|10 Eday_start|###11 Bday_end|日 Eday_end
+
+####20190201到20190223####
+20190201 date_start###20190223 date_end
+20180512 date_start###20190113 date_end
+
+####2019/5到2020/6####
+2019 year_start|/ NN|5 month_start###2019 year_end|/ NN|6 month_end
+
+####2019/5/6到2020/5/7####
+2019 year_start|/ NN|5 month_start|/ NN|6 day_start###2019 year_end|/ NN|5 month_end|/ NN|7 day_end
+
+####【前/昨】天到今天####
+前 Bdate_start|天 Edate_start###今 Bdate_end|天 Edate_end
+昨 Bdate_start|天 Edate_start###今 Bdate_end|天 Edate_end
+
+####【去/前】年到今年####
+前 Byear_start|年 Eyear_start###今 Byear_end|年 Eyera_end
+去 Byear_start|年 Eyear_start###今 Byear_end|年 Eyera_end
+
+####【今，去】年5月到【今，去】年8月####
+今 Byear_start|年 Eyear_start|5 Bmonth_start|月 Emonth_start###今 Byear_end|年 Eyear_end|8 Bmonth_end|月 Emonth_end
+今 Byear_start|年 Eyear_start|10 Bmonth_start|月 Emonth_start###今 Byear_end|年 Eyear_end|12 Bmonth_end|月 Emonth_end
+去 Byear_start|年 Eyear_start|5 Bmonth_start|月 Emonth_start###今 Byear_end|年 Eyear_end|8 Bmonth_end|月 Emonth_end
+去 Byear_start|年 Eyear_start|10 Bmonth_start|月 Emonth_start###去 Byear_end|年 Eyear_end|12 Bmonth_end|月 Emonth_end
+
+####【今，去】年5月到8月####
+今 Byear_start|年 Eyear_start|5 Bmonth_start|月 Emonth_start###8 Bmonth_end|月 Emonth_end
+今 Byear_start|年 Eyear_start|2 Bmonth_start|月 Emonth_start###9 Bmonth_end|月 Emonth_end
+去 Byear_start|年 Eyear_start|5 Bmonth_start|月 Emonth_start###8 Bmonth_end|月 Emonth_end
+去 Byear_start|年 Eyear_start|2 Bmonth_start|月 Emonth_start###9 Bmonth_end|月 Emonth_end
+
+####【今，去】年5月9日到【今，去】年5月11日####
+今 Byear_start|年 Eyear_start|5 Bmonth_start|月 Emonth_start|9 Bday_start|日 Eday_start###今 Byear_end|年 Eyear_end|8 Bmonth_end|月 Emonth_end|11 Bday_end|日 Eday_end
+去 Byear_start|年 Eyear_start|5 Bmonth_start|月 Emonth_start|9 Bday_start|日 Eday_start###去 Byear_end|年 Eyear_end|8 Bmonth_end|月 Emonth_end|11 Bday_end|日 Eday_end
+
+####【今，去】5月9日到11日####
+今 Byear_start|年 Eyear_start|5 Bmonth_start|月 Emonth_start|9 Bday_start|日 Eday_start###11 Bday_end|日 Eday_end
+今 Byear_start|年 Eyear_start|2 Bmonth_start|月 Emonth_start|3 Bday_start|日 Eday_start###24 Bday_end|日 Eday_end
+去 Byear_start|年 Eyear_start|5 Bmonth_start|月 Emonth_start|9 Bday_start|日 Eday_start###11 Bday_end|日 Eday_end
+去 Byear_start|年 Eyear_start|2 Bmonth_start|月 Emonth_start|3 Bday_start|日 Eday_start###24 Bday_end|日 Eday_end
+
+####这个月到【上、上上】个月####
+这 Bmonth_start|个 Mmonth_start|月 Emonth_start###上 Bmonth_end|个 Mmonth_end|月 Emonth_end
+这 Bmonth_start|个 Mmonth_start|月 Emonth_start###上 Bmonth_end|上 Mmonth_end|个 Mmonth_end|月 Emonth_end
+
+
+####【这，上】个月9日到11日####
+这 Bmonth_start|个 Mmonth_start|月 Emonth_start|9 Bday_start|日 Bday_start###11 Bday_end|日 Bday_end
+这 Bmonth_start|个 Mmonth_start|月 Emonth_start|4 Bday_start|日 Bday_start###8 Bday_end|日 Bday_end
+上 Bmonth_start|个 Mmonth_start|月 Emonth_start|9 Bday_start|日 Bday_start###11 Bday_end|日 Bday_end
+上 Bmonth_start|个 Mmonth_start|月 Emonth_start|4 Bday_start|日 Bday_start###8 Bday_end|日 Bday_end
+
+####【这，上】个月9日到【这，上】个月11日####
+这 Bmonth_start|个 Mmonth_start|月 Emonth_start|9 Bday_start|日 Bday_start###这 Bmonth_end|个 Mmonth_end|月 Emonth_end|11 Bday_end|日 Bday_end
+上 Bmonth_start|个 Mmonth_start|月 Emonth_start|9 Bday_start|日 Bday_start###上 Bmonth_end|个 Mmonth_end|月 Emonth_end|11 Bday_end|日 Bday_end
+
+####2019年到【今、去】年####
+2019 Byear_start|年 Eyeart_start###今 Byear_end|年 Eyear_end
+2018 Byear_start|年 Eyeart_start###去 Byear_end|年 Eyear_end
+
+####2019年8月到【今、去】年10月####
+2019 Byear_start|年 Eyeart_start|8 Bmonth_start|月 Emonth_start###今 Byear_end|年 Eyear_end|10 Bmonth_end|月 Emonth_end
+2018 Byear_start|年 Eyeart_start|3 Bmonth_start|月 Emonth_start###去 Byear_end|年 Eyear_end|7 Bmonth_end|月 Emonth_end
+
+####2019年8月23日到【今、去】年10月12日####
+2019 Byear_start|年 Eyeart_start|8 Bmonth_start|月 Emonth_start|23 Bday_start|日 Eday_start###今 Byear_end|年 Eyear_end|10 Bmonth_end|月 Emonth_end|12 Bday_end|日 Eday_end
+2019 Byear_start|年 Eyeart_start|1 Bmonth_start|月 Emonth_start|23 Bday_start|日 Eday_start###去 Byear_end|年 Eyear_end|5 Bmonth_end|月 Emonth_end|6 Bday_end|日 Eday_end
+
+####2019年8月23日到【今、昨、前】天####
+2019 Byear_start|年 Eyeart_start|8 Bmonth_start|月 Emonth_start|23 Bday_start|日 Eday_start###今 Bdate_end|天 Edate_end
+2013 Byear_start|年 Eyeart_start|6 Bmonth_start|月 Emonth_start|11 Bday_start|日 Eday_start###昨 Bdate_end|天 Edate_end
+2014 Byear_start|年 Eyeart_start|9 Bmonth_start|月 Emonth_start|5 Bday_start|日 Eday_start###前 Bdate_end|天 Edate_end

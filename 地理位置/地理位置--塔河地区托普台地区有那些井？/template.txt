@@ -1,0 +1,2 @@
+replaceLocal NN|有 NN|哪 NN|些 NN|replaceConcept NN
+replaceLocal NN|有 NN|多 NN|少 NN|replaceConcept NN

@@ -1,0 +1,14 @@
+一 NN|月 NN|核 NN|实 NN|产 NN|油 NN|量 NN
+下 NN|大 NN|泵 NN|核 NN|实 NN|月 NN|增 NN|油 NN|量 NN
+井 NN|口 NN|老 NN|井 NN|年 NN|产 NN|油 NN
+产 NN|气 NN|量 NN
+人 NN|工 NN|补 NN|充 NN|能 NN|量 NN|标 NN|志 NN|1 NN
+其 NN|他 NN|总 NN|井 NN|次 NN
+其 NN|他 NN|措 NN|施 NN|初 NN|增 NN|油 NN|能 NN|力 NN
+其 NN|他 NN|施 NN|初 NN|增 NN|液 NN|能 NN|力 NN
+其 NN|它 NN|措 NN|施 NN|核 NN|实 NN|月 NN|增 NN|液 NN|量 NN
+其 NN|它 NN|日 NN|增 NN|注 NN|水 NN|平 NN
+准 NN|备 NN|井 NN|数 NN
+准 NN|备 NN|投 NN|建 NN|井 NN|数 NN
+出 NN|水 NN|井 NN|开 NN|井 NN|数 NN
+高 NN|压 NN|注 NN|水 NN|有 NN|效 NN|井 NN|次 NN

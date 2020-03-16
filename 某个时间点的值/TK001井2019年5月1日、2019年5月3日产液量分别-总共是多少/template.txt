@@ -1,0 +1,4 @@
+replaceInstance NN|replacetime NN|、 NN|replacetime NN|replaceAttribute NN|分 NN|别 NN|是 NN|多 NN|少 NN
+replaceInstance NN|replacetime NN|、 NN|replacetime NN|replaceAttribute NN|总 NN|共 NN|是 NN|多 NN|少 NN
+replaceInstance NN|replacetime NN|和 NN|replacetime NN|replaceAttribute NN|分 NN|别 NN|是 NN|多 NN|少 NN
+replaceInstance NN|replacetime NN|和 NN|replacetime NN|replaceAttribute NN|总 NN|共 NN|是 NN|多 NN|少 NN

@@ -1,0 +1,24 @@
+B NN|-001 NN
+3 NN|S NN|125 NN|A NN|-6/37 NN
+25 NN|HJ NN
+26082009 NN
+2 NN|H NN|甲 NN|醇 NN
+2 NN|H NN|井 NN|缓 NN|蚀 NN|剂 NN
+2 NN|H NN|井 NN|甲 NN|醇 NN|加 NN|注 NN
+2 NN|井 NN
+2 NN|井 NN|缓 NN|蚀 NN|剂 NN
+2 NN|井 NN|甲 NN|醇 NN
+2 NN|井 NN|甲 NN|醇 NN|加 NN|注 NN
+32 NN
+3 NN|井 NN
+3 NN|井 NN|缓 NN|蚀 NN|剂 NN
+3 NN|井 NN|甲 NN|醇 NN
+3 NN|井 NN|甲 NN|醇 NN|加 NN|注 NN
+J NN|1 NN
+JHF NN|80-50-250 NN|A NN
+K NN|131 NN
+LBGNJ NN|-12000*60001 NN
+火 NN|炬 NN|罐 NN|底 NN
+甲 NN|醇 NN|泵 NN|01 NN
+井 NN|备 NN
+井 NN|备 NN|缓 NN|蚀 NN|剂 NN

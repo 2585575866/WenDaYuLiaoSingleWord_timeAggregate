@@ -1,0 +1,19 @@
+测 NN|试 NN
+大 NN|湾 NN|4 NN
+大 NN|湾 NN|4011-2 NN
+普 NN|陆 NN|3 NN
+新 NN|清 NN|溪 NN|1 NN
+北 NN|2 NN
+川 NN|1 NN
+川 NN|25 NN
+川 NN|26 NN
+川 NN|64 NN
+毛 NN|坝 NN|3 NN
+毛 NN|开 NN|1 NN
+普 NN|光 NN|11 NN
+双 NN|庙 NN|101 NN
+铁 NN|北 NN|1 NN
+新 NN|黑 NN|池 NN|1 NN
+大 NN|湾 NN|402-3 NN
+大 NN|湾 NN|405-3 NN
+普 NN|光 NN|3206-1 NN|T NN

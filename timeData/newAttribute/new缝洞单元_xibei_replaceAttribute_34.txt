@@ -1,0 +1,47 @@
+上 NN|月 NN|增 NN|油 NN|量 NN
+产 NN|气 NN|量 NN
+产 NN|水 NN|量 NN
+产 NN|油 NN|量 NN
+产 NN|液 NN|量 NN
+人 NN|工 NN|补 NN|充 NN|能 NN|量 NN|标 NN|志 NN
+停 NN|注 NN|井 NN|数 NN
+冲 NN|次 NN
+冲 NN|程 NN
+动 NN|液 NN|面 NN
+去 NN|掉 NN|措 NN|施 NN|累 NN|增 NN|油 NN
+受 NN|效 NN|前 NN|水 NN|平 NN
+受 NN|效 NN|日 NN|期 NN|标 NN|示 NN
+可 NN|采 NN|储 NN|量 NN
+含 NN|水 NN
+含 NN|水 NN|率 NN
+含 NN|油 NN|面 NN|积 NN
+平 NN|均 NN|单 NN|井 NN|日 NN|产 NN|液 NN|能 NN|力 NN
+年 NN|产 NN|气 NN|量 NN
+年 NN|注 NN|入 NN|量 NN
+年 NN|注 NN|水 NN|量 NN
+序 NN|号 NN
+开 NN|井 NN|数 NN
+沉 NN|没 NN|度 NN
+火 NN|烧 NN|年 NN|月 NN
+热 NN|采 NN|储 NN|量 NN
+现 NN|在 NN|是 NN|否 NN|有 NN|效 NN
+生 NN|产 NN|井 NN|数 NN
+目 NN|前 NN|产 NN|油 NN|量 NN
+目 NN|前 NN|产 NN|液 NN|量 NN
+目 NN|前 NN|开 NN|油 NN|井 NN|数 NN
+目 NN|前 NN|日 NN|产 NN|液 NN|水 NN|平 NN
+目 NN|前 NN|日 NN|油 NN|产 NN|水 NN|平 NN
+目 NN|前 NN|综 NN|合 NN|含 NN|水 NN
+确 NN|定 NN|受 NN|效 NN|点 NN|后 NN|旬 NN|度 NN|轮 NN|次 NN
+空 NN|气 NN|渗 NN|透 NN|率 NN
+累 NN|增 NN|油 NN
+累 NN|计 NN|产 NN|气 NN|量 NN
+缝 NN|洞 NN|单 NN|元 NN|开 NN|始 NN|注 NN|水 NN|日 NN|期 NN
+老 NN|井 NN|预 NN|测 NN
+自 NN|喷 NN|井 NN|开 NN|井 NN
+计 NN|数 NN|井 NN
+计 NN|数 NN|井 NN|数 NN
+递 NN|减 NN|率 NN
+采 NN|出 NN|程 NN|度 NN
+采 NN|油 NN|速 NN|度 NN
+预 NN|测 NN|时 NN|间 NN

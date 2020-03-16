@@ -1,0 +1,6 @@
+出 NN|厂 NN|日 NN|期 NN
+开 NN|抽 NN|日 NN|期 NN
+电 NN|机 NN|质 NN|量 NN
+电 NN|机 NN|额 NN|定 NN|温 NN|度 NN
+累 NN|积 NN|使 NN|用 NN|时 NN|间 NN
+设 NN|备 NN|状 NN|况 NN

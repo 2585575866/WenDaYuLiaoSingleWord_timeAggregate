@@ -1,0 +1,8 @@
+#replaceInstance NN|replceTime NN|到 NN|replaceTime NN|的 NN|replaceAttribute NN|总 NN|共 NN|是 NN|多 NN|少 NN
+#replaceInstance NN|replceTime NN|至 NN|replaceTime NN|的 NN|replaceAttribute NN|总 NN|共 NN|是 NN|多 NN|少 NN
+#replaceInstance NN|replceTime NN|- NN|replaceTime NN|的 NN|replaceAttribute NN|总 NN|共 NN|是 NN|多 NN|少 NN
+*replaceInstance NN|replceTime NN|到 NN|replaceTime NN|的 NN|replaceAttribute NN|是 NN|多 NN|少 NN
+*replaceInstance NN|replceTime NN|至 NN|replaceTime NN|的 NN|replaceAttribute NN|是 NN|多 NN|少 NN
+*replaceInstance NN|replceTime NN|- NN|replaceTime NN|的 NN|replaceAttribute NN|总 NN|共 NN|是 NN|多 NN|少 NN
+@replaceInstance NN|从 NN|replceTime NN|到 NN|replaceTime NN|的 NN|replaceAttribute NN|是 NN|多 NN|少 NN
+@replaceInstance NN|从 NN|replceTime NN|至 NN|replaceTime NN|的 NN|replaceAttribute NN|是 NN|多 NN|少 NN

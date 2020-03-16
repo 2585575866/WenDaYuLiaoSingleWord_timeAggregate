@@ -1,0 +1,68 @@
+####昨天和今天####
+昨 Bdate|天 Edate###前 Bdate|天 Edate
+今 Bdate|天 Edate###昨 Bdate|天 Edate
+
+####去年和今年####
+今 Byear|年 Eyear###去 Byear|年 Eyear
+前 Byear|年 Eyear###去 Byear|年 Eyear
+
+####去年4月和今年6月####
+今 Byear|年 Eyear|4 Bmonth|月 Emonth###今 Byear|年 Eyear|6 Bmonth|月 Emonth
+去 Byear|年 Eyear|5 Bmonth|月 Emonth###去 Byear|年 Eyear|8 Bmonth|月 Emonth
+
+####去年4月和6月####
+今 Byear|年 Eyear|4 Bmonth|月 Emonth###6 Bmonth|月 Emonth
+去 Byear|年 Eyear|5 Bmonth|月 Emonth###8 Bmonth|月 Emonth
+前 Byear|年 Eyear|7 Bmonth|月 Emonth###9 Bmonth|月 Emonth
+
+####去年4月10日和今年6月3日####
+今 Byear|年 Eyear|4 Bmonth|月 Emonth|10 Bday|日 Eday###今 Byear|年 Eyear|6 Bmonth|月 Emonth|3 Bday|日 Eday
+去 Byear|年 Eyear|8 Bmonth|月 Emonth|6 Bday|日 Eday###去 Byear|年 Eyear|2 Bmonth|月 Emonth|3 Bday|日 Eday
+
+
+####去年4月10日和23日####
+今 Byear|年 Eyear|8 Bmonth|月 Emonth|4 Bday|日 Eday###10 Bday|日
+去 Byear|年 Eyear|9 Bmonth|月 Emonth|5 Bday|日 Eday###7 Bday|日
+前 Byear|年 Eyear|10 Bmonth|月 Emonth|4 Bday|日 Eday###8 Bday|日
+
+####这个月5日和6日####
+这 Bmonth|个 Mmonth|月 Emonth|5 Bday|日 Eday###6 Bday|日 Eday
+这 Bmonth|个 Mmonth|月 Emonth|5 Bday|日 Eday###这 Bmonth|个 Mmonth|月 Emonth|9 Bday|日 Eday
+上 Bmonth|个 Mmonth|月 Emonth|5 Bday|日 Eday###8 Bday|日 Eday
+上 Bmonth|个 Mmonth|月 Emonth|5 Bday|日 Eday###上 Bmonth|个 Mmonth|月 Emonth|9 Bday|日 Eday
+
+####2018年和2019年####
+2018 Byear|年 Eyear###2020 Byear|年 Eyear
+2018 year###2020 year
+
+####2018年8月和2019年9月####
+2018 Byear|年 Eyear|10 Bmonth|月 Emonth###2019 Byear|年 Eyear|5 Bmonth|月 Emonth
+2017 Byear|年 Eyear|7 Bmonth|月 Emonth###2018 Byear|年 Eyear|11 Bmonth|月 Emonth
+2020 Byear|年 Eyear|4 Bmonth|月 Emonth###2020 Byear|年 Eyear|6 Bmonth|月 Emonth
+
+####2018年8月8日和2019年9月9日####
+2019 Byear|年 Eyear|5 Bmonth|月 Emonth|1 Bday|日 Eday###2019 Byear|年 Eyear|5 Bmonth|月 Emonth|2 Bday|日 Eday
+2019 Byear|年 Eyear|3 Bmonth|月 Emonth|5 Bday|日 Eday###2019 Byear|年 Eyear|3 Bmonth|月 Emonth|6 Bday|日 Eday
+2020 Byear|年 Eyear|2 Bmonth|月 Emonth|9 Bday|日 Eday###2020 Byear|年 Eyear|2 Bmonth|月 Emonth|9 Bday|日 Eday
+
+####2018年8月和9月####
+2019 Byear|年 Eyear|4 Bmonth|月 Emonth###9 Bmonth|月 Emonth
+2018 Byear|年 Eyear|9 Bmonth|月 Emonth###3 Bmonth|月 Emonth
+2020 Byear|年 Eyear|5 Bmonth|月 Emonth###8 Bmonth|月 Emonth
+
+####2018年8月8日和9日####
+2019 Byear|年 Eyear|5 Bmonth|月 Emonth|1 Bday|日 Eday###11 Bday|日 Eday
+2017 Byear|年 Eyear|9 Bmonth|月 Emonth|1 Bday|日 Eday###21 Bday|日 Eday
+2013 Byear|年 Eyear|5 Bmonth|月 Emonth|1 Bday|日 Eday###18 Bday|日 Eday
+
+####20190501####
+20190501 date###20180405 date
+20160306 date###20170309 date
+
+####2019/05/01####
+2018 year|/ NN|10 month|/ NN|9 day###2019 year|/ NN|3 month|/ NN|2 day
+2018 year|/ NN|10 month|/ NN|9 day###10 day
+
+####2019-05-01####
+2018 year|- NN|11 month###2020 year|- NN|10 month
+2018 year|- NN|11 month###12 month

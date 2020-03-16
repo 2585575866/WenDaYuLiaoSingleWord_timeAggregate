@@ -1,0 +1,8 @@
+平 NN|均 NN|气 NN|嘴 NN
+平 NN|均 NN|油 NN|压 NN
+平 NN|均 NN|流 NN|压 NN
+平 NN|均 NN|针 NN|型 NN|阀 NN|开 NN|度 NN
+年 NN|度 NN|配 NN|注 NN|汽 NN|量 NN
+年 NN|度 NN|配 NN|采 NN|气 NN|量 NN
+预 NN|测 NN|经 NN|济 NN|可 NN|采 NN|储 NN|量 NN
+预 NN|测 NN|采 NN|收 NN|率 NN

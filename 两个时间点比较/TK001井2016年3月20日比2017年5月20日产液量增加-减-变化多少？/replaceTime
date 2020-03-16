@@ -1,0 +1,110 @@
+####2019年比2020年####
+2019 Byear|年 Eyear###2020 Byear_base|年 Eyear_base
+2018 Byear|年 Eyear###2019 Byear_base|年 Eyear_base
+2017 Byear|年 Eyear###2019 Byear_base|年 Eyear_base
+2015 Byear|年 Eyear###2018 Byear_base|年 Eyear_base
+
+####2019年8月比2020年9月####
+2019 Byear|年 Eyear|5 Bmonth|月 Emonth###2019 Byear_base|年 Eyear_base|8 Bmonth_base|月 Emonth_base
+2018 Byear|年 Eyear|8 Bmonth|月 Emonth###2019 Byear_base|年 Eyear_base|2 Bmonth_base|月 Emonth_base
+2017 Byear|年 Eyear|8 Bmonth|月 Emonth###2018 Byear_base|年 Eyear_base|6 Bmonth_base|月 Emonth_base
+2015 Byear|年 Eyear|10 Bmonth|月 Emonth###2016 Byear_base|年 Eyear_base|2 Bmonth_base|月 Emonth_base
+2012 Byear|年 Eyear|11 Bmonth|月 Emonth###2013 Byear_base|年 Eyear_base|8 Bmonth_base|月 Emonth_base
+2018 Byear|年 Eyear|4 Bmonth|月 Emonth###2019 Byear_base|年 Eyear_base|11 Bmonth_base|月 Emonth_base
+2018 Byear|年 Eyear|9 Bmonth|月 Emonth###2019 Byear_base|年 Eyear_base|5 Bmonth_base|月 Emonth_base
+2018 Byear|年 Eyear|10 Bmonth|月 Emonth###2018 Byear_base|年 Eyear_base|12 Bmonth_base|月 Emonth_base
+2019 Byear|年 Eyear|11 Bmonth|月 Emonth###2020 Byear_base|年 Eyear_base|2 Bmonth_base|月 Emonth_base
+
+####2019年8月比9月####
+2019 Byear|年 Eyear|5 Bmonth|月 Emonth###8 Bmonth_base|月 Emonth_base
+2018 Byear|年 Eyear|8 Bmonth|月 Emonth###2 Bmonth_base|月 Emonth_base
+2017 Byear|年 Eyear|8 Bmonth|月 Emonth###6 Bmonth_base|月 Emonth_base
+2015 Byear|年 Eyear|10 Bmonth|月 Emonth###2 Bmonth_base|月 Emonth_base
+2012 Byear|年 Eyear|11 Bmonth|月 Emonth###8 Bmonth_base|月 Emonth_base
+2018 Byear|年 Eyear|4 Bmonth|月 Emonth###11 Bmonth_base|月 Emonth_base
+
+####2019年8月10日比2020年9月23日####
+2010 Byear|年 Eyear|1 Bmonth|月 Emonth|1 Bday|日 Eday###2019 Byear_base|年 Eyear_base|3 Bmonth_base|月 Emonth_base|4 Bday_base|日 Eday_base
+2011 Byear|年 Eyear|2 Bmonth|月 Emonth|19 Bday|日 Eday###2018 Byear_base|年 Eyear_base|4 Bmonth_base|月 Emonth_base|6 Bday_base|日 Eday_base
+2012 Byear|年 Eyear|3 Bmonth|月 Emonth|18 Bday|日 Eday###2017 Byear_base|年 Eyear_base|5 Bmonth_base|月 Emonth_base|2 Bday_base|日 Eday_base
+2013 Byear|年 Eyear|4 Bmonth|月 Emonth|17 Bday|日 Eday###2016 Byear_base|年 Eyear_base|6 Bmonth_base|月 Emonth_base|6 Bday_base|日 Eday_base
+2014 Byear|年 Eyear|5 Bmonth|月 Emonth|16 Bday|日 Eday###2015 Byear_base|年 Eyear_base|7 Bmonth_base|月 Emonth_base|11 Bday_base|日 Eday_base
+2015 Byear|年 Eyear|6 Bmonth|月 Emonth|15 Bday|日 Eday###2014 Byear_base|年 Eyear_base|8 Bmonth_base|月 Emonth_base|4 Bday_base|日 Eday_base
+2016 Byear|年 Eyear|7 Bmonth|月 Emonth|14 Bday|日 Eday###2013 Byear_base|年 Eyear_base|9 Bmonth_base|月 Emonth_base|23 Bday_base|日 Eday_base
+
+####2019年8月10日比23日####
+2010 Byear|年 Eyear|1 Bmonth|月 Emonth|1 Bday|日 Eday###23 Bday_base|日 Eday_base
+2011 Byear|年 Eyear|2 Bmonth|月 Emonth|19 Bday|日 Eday###6 Bday_base|日 Eday_base
+2012 Byear|年 Eyear|3 Bmonth|月 Emonth|18 Bday|日 Eday###2 Bday_base|日 Eday_base
+2013 Byear|年 Eyear|4 Bmonth|月 Emonth|17 Bday|日 Eday###6 Bday_base|日 Eday_base
+2014 Byear|年 Eyear|5 Bmonth|月 Emonth|16 Bday|日 Eday###11 Bday_base|日 Eday_base
+
+####今年比去年####
+今 Byear|年 Eyear###去 Byear_base|年 Eyear_base
+今 Byear|年 Eyear###前 Byear_base|年 Eyear_base
+去 Byear|年 Eyear###前 Byear_base|年 Eyear_base
+
+####今年5月比今年6月####
+今 Byear|年 Eyear|5 Bmonth|月 Emonth ###今 Byear_base|年 Eyear_base|6 Bmonth_base|月 Emonth_bse
+今 Byear|年 Eyear|5 Bmonth|月 Emonth ###去 Byear_base|年 Eyear_base|6 Bmonth_base|月 Emonth_base
+
+####今年5月比6月####
+今 Byear|年 Eyear|5 Bmonth|月 Emonth ###6 Bmonth_base|月 Emonth_base
+去 Byear|年 Eyear|5 Bmonth|月 Emonth ###6 Bmonth_base|月 Emonth_base
+
+####今年5月8日比今年6月10日####
+今 Byear|年 Eyear|5 Bmonth|月 Emonth|8 Bday|日 Eday ###今 Byear_base|年 Eyear_base|6 Bmonth_base|月 Emonth_bse|10 Bday_base|日 Eday_base
+去 Byear|年 Eyear|5 Bmonth|月 Emonth|8 Bday|日 Eday ###去 Byear_base|年 Eyear_base|6 Bmonth_base|月 Emonth_bse|10 Bday_base|日 Eday_base
+
+####今年5月8日比10日####
+今 Byear|年 Eyear|5 Bmonth|月 Emonth|8 Bday|日 Eday ###10 Bday_base|日 Eday_base
+去 Byear|年 Eyear|3 Bmonth|月 Emonth|4 Bday|日 Eday ###12 Bday_base|日 Eday_base
+
+####这个月比【上、上上】个月####
+这 Bmonth|个 Mmonth|月 Emonth###上 Bmonth_base|个 Mmonth_base|月 Emonth_base
+这 Bmonth|个 Mmonth|月 Emonth###上 Bmonth_base|上 Mmonth_base|个 Mmonth_base|月 Emonth_base
+
+####【这，上】个月9日比11日####
+这 Bmonth|个 Mmonth|月 Emonth|9 Bday|日 Bday###11 Bday_base|日 Bday_base
+这 Bmonth|个 Mmonth|月 Emonth|4 Bday|日 Bday###8 Bday_base|日 Bday_base
+上 Bmonth|个 Mmonth|月 Emonth|9 Bday|日 Bday###11 Bday_base|日 Bday_base
+上 Bmonth|个 Mmonth|月 Emonth|4 Bday|日 Bday###8 Bday_base|日 Bday_base
+
+####【这，上】个月9日比【这，上】个月11日####
+这 Bmonth|个 Mmonth|月 Emonth|9 Bday|日 Bday###这 Bmonth_base|个 Mmonth_base|月 Emonth_base|11 Bday_base|日 Bday_base
+上 Bmonth|个 Mmonth|月 Emonth|9 Bday|日 Bday###上 Bmonth_base|个 Mmonth_base|月 Emonth_base|11 Bday_base|日 Bday_base
+
+####2019年比【今、去】年####
+2019 Byear|年 Eyeart###今 Byear_base|年 Eyear_base
+2018 Byear|年 Eyeart###去 Byear_base|年 Eyear_base
+
+####【今、去】比2019年####
+今 Byear|年 Eyear###2019 Byear_base|年 Eyear_base
+去 Byear|年 Eyear###2020 Byear_base|年 Eyear_base
+
+
+####2019年8月比【今、去】年10月####
+2019 Byear|年 Eyeart|8 Bmonth|月 Emonth###今 Byear_base|年 Eyear_base|10 Bmonth_base|月 Emonth_base
+2018 Byear|年 Eyeart|3 Bmonth|月 Emonth###去 Byear_base|年 Eyear_base|7 Bmonth_base|月 Emonth_base
+
+####2019年8月23日比【今、去】年10月12日####
+2019 Byear|年 Eyeart|8 Bmonth|月 Emonth|23 Bday|日 Eday###今 Byear_base|年 Eyear_base|10 Bmonth_base|月 Emonth_base|12 Bday_base|日 Eday_base
+2019 Byear|年 Eyeart|1 Bmonth|月 Emonth|23 Bday|日 Eday###去 Byear_base|年 Eyear_base|5 Bmonth_base|月 Emonth_base|6 Bday_base|日 Eday_base
+
+####2019年8月23日比【今、昨、前】天####
+2019 Byear|年 Eyeart|8 Bmonth|月 Emonth|23 Bday|日 Eday###今 Bdate_base|天 Edate_base
+2013 Byear|年 Eyeart|6 Bmonth|月 Emonth|11 Bday|日 Eday###昨 Bdate_base|天 Edate_base
+2014 Byear|年 Eyeart|9 Bmonth|月 Emonth|5 Bday|日 Eday###前 Bdate_base|天 Edate_base
+
+
+####【前/昨】天比今天####
+前 Bdate|天 Edate###今 Bdate_base|天 Edate_base
+昨 Bdate|天 Edate###今 Bdate_base|天 Edate_base
+
+####2019/5/6比2019/7/6####
+2019 year|/ NN|5 month|/ NN|6 day###2019 year_base|/ NN|7 month_base|/ NN|6 day_base
+2018 year|/ NN|4 month|/ NN|11 day###2019 year_base|/ NN|6 month_base|/ NN|9 day_base
+
+####20190201比20190223####
+20190201 date###20190223 date_base
+20180512 date###20190113 date_base

@@ -1,0 +1,8 @@
+供 NN|水 NN|量 NN
+供 NN|汽 NN|量 NN
+供 NN|燃 NN|料 NN|压 NN|力 NN
+停 NN|运 NN|描 NN|述 NN
+冲 NN|洗 NN|水 NN|位 NN|计 NN|次 NN|数 NN
+安 NN|装 NN|类 NN|型 NN
+锅 NN|炉 NN|进 NN|口 NN|压 NN|力 NN
+锅 NN|炉 NN|进 NN|口 NN|温 NN|度 NN

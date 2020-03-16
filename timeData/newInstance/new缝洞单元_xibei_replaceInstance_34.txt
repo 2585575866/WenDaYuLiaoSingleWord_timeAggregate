@@ -1,0 +1,5 @@
+AD NN|11 NN|缝 NN|洞 NN|单 NN|元 NN
+S NN|81 NN|缝 NN|洞 NN|单 NN|元 NN
+TK NN|675 NN|X NN|缝 NN|洞 NN|单 NN|元 NN
+YQ NN|5-5 NN|缝 NN|洞 NN|单 NN|元 NN
+TP NN|253 NN|X NN|缝 NN|洞 NN|单 NN|元 NN

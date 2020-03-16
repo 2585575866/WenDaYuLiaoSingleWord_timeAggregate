@@ -1,0 +1,7 @@
+分 NN|液 NN|罐 NN|拉 NN|液 NN|情 NN|况 NN
+分 NN|离 NN|器 NN|产 NN|液 NN|量 NN
+分 NN|离 NN|器 NN|温 NN|度 NN
+加 NN|热 NN|炉 NN|软 NN|化 NN|水 NN|添 NN|加 NN|情 NN|况 NN
+缓 NN|释 NN|剂 NN|添 NN|加 NN|量 NN
+酸 NN|液 NN|缓 NN|冲 NN|罐 NN|液 NN|位 NN
+采 NN|集 NN|时 NN|间 NN

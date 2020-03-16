@@ -1,0 +1,8 @@
+A NN|炉 NN|负 NN|荷 NN
+分 NN|离 NN|器 NN|压 NN|力 NN
+分 NN|离 NN|器 NN|流 NN|量 NN
+排 NN|泥 NN|时 NN|间 NN
+排 NN|泥 NN|量 NN
+采 NN|集 NN|时 NN|间 NN
+集 NN|输 NN|放 NN|空 NN|气 NN|量 NN
+高 NN|压 NN|氮 NN|气 NN|压 NN|力 NN

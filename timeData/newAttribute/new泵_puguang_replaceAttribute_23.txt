@@ -1,0 +1,6 @@
+一 NN|保 NN|累 NN|计 NN|时 NN|间 NN
+停 NN|泵 NN|原 NN|因 NN
+停 NN|泵 NN|时 NN|间 NN
+出 NN|口 NN|液 NN|温 NN|度 NN
+工 NN|作 NN|电 NN|压 NN
+干 NN|压 NN

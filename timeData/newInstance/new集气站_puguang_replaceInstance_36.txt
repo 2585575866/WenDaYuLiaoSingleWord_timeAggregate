@@ -1,0 +1,17 @@
+大 NN|湾 NN|401 NN
+毛 NN|坝 NN|503 NN
+毛 NN|坝 NN|503 NN|集 NN|气 NN|站 NN
+普 NN|光 NN|101 NN
+双 NN|庙 NN|集 NN|气 NN|站 NN
+污 NN|水 NN|回 NN|注 NN|站 NN
+新 NN|清 NN|溪 NN|1 NN|集 NN|气 NN|站 NN
+P NN|101 NN
+PG NN|107 NN
+大 NN|湾 NN|13# NN|阀 NN|室 NN
+毛 NN|坝 NN|508 NN|集 NN|气 NN|站 NN
+普 NN|303 NN
+普 NN|光 NN|305 NN|集 NN|气 NN|站 NN
+清 NN|溪 NN
+双 NN|庙 NN|1 NN|集 NN|气 NN|站 NN
+新 NN|清 NN|溪 NN|1 NN
+新 NN|清 NN|溪 NN|一 NN|集 NN|气 NN|站 NN

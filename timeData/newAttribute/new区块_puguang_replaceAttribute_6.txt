@@ -1,0 +1,7 @@
+上 NN|年 NN|开 NN|发 NN|指 NN|标 NN|天 NN|然 NN|气 NN|产 NN|量 NN
+已 NN|开 NN|发 NN|剩 NN|余 NN|可 NN|采 NN|储 NN|量 NN
+措 NN|施 NN|增 NN|产 NN|总 NN|井 NN|次 NN
+新 NN|井 NN|年 NN|产 NN|气 NN
+采 NN|出 NN|程 NN|度 NN
+采 NN|收 NN|率 NN
+采 NN|气 NN|速 NN|度 NN

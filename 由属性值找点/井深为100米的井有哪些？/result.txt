@@ -1,0 +1,572 @@
+井 NN|深 NN|为 NN|1 Bval|0 Mval|0 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+井 NN|深 NN|是 NN|1 Bval|0 Mval|0 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+井 NN|深 NN|为 NN|1 Bval|0 Mval|0 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+井 NN|深 NN|是 NN|1 Bval|0 Mval|0 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+井 NN|深 NN|为 NN|2 Bval|0 Mval|0 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+井 NN|深 NN|是 NN|2 Bval|0 Mval|0 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+井 NN|深 NN|为 NN|2 Bval|0 Mval|0 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+井 NN|深 NN|是 NN|2 Bval|0 Mval|0 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+井 NN|深 NN|为 NN|1 Bval|2 Mval|3 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+井 NN|深 NN|是 NN|1 Bval|2 Mval|3 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+井 NN|深 NN|为 NN|1 Bval|2 Mval|3 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+井 NN|深 NN|是 NN|1 Bval|2 Mval|3 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+井 NN|型 NN|为 NN|直 Bval|井 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+井 NN|型 NN|是 NN|直 Bval|井 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+井 NN|型 NN|为 NN|直 Bval|井 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+井 NN|型 NN|是 NN|直 Bval|井 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+井 NN|型 NN|为 NN|水 Bval|平 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+井 NN|型 NN|是 NN|水 Bval|平 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+井 NN|型 NN|为 NN|水 Bval|平 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+井 NN|型 NN|是 NN|水 Bval|平 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+井 NN|型 NN|为 NN|定 Bval|向 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+井 NN|型 NN|是 NN|定 Bval|向 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+井 NN|型 NN|为 NN|定 Bval|向 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+井 NN|型 NN|是 NN|定 Bval|向 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+井 NN|型 NN|为 NN|斜 Bval|直 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+井 NN|型 NN|是 NN|斜 Bval|直 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+井 NN|型 NN|为 NN|斜 Bval|直 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+井 NN|型 NN|是 NN|斜 Bval|直 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+井 NN|型 NN|为 NN|多 Bval|底 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+井 NN|型 NN|是 NN|多 Bval|底 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+井 NN|型 NN|为 NN|多 Bval|底 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+井 NN|型 NN|是 NN|多 Bval|底 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+井 NN|型 NN|为 NN|救 Bval|援 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+井 NN|型 NN|是 NN|救 Bval|援 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+井 NN|型 NN|为 NN|救 Bval|援 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+井 NN|型 NN|是 NN|救 Bval|援 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+井 NN|型 NN|为 NN|侧 Bval|钻 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+井 NN|型 NN|是 NN|侧 Bval|钻 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+井 NN|型 NN|为 NN|侧 Bval|钻 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+井 NN|型 NN|是 NN|侧 Bval|钻 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+井 NN|型 NN|为 NN|侧 Bval|钻 Mval|水 Mval|平 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+井 NN|型 NN|是 NN|侧 Bval|钻 Mval|水 Mval|平 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+井 NN|型 NN|为 NN|侧 Bval|钻 Mval|水 Mval|平 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+井 NN|型 NN|是 NN|侧 Bval|钻 Mval|水 Mval|平 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+井 NN|型 NN|为 NN|加 Bval|深 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+井 NN|型 NN|是 NN|加 Bval|深 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+井 NN|型 NN|为 NN|加 Bval|深 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+井 NN|型 NN|是 NN|加 Bval|深 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+井 NN|型 NN|为 NN|其 Bval|他 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+井 NN|型 NN|是 NN|其 Bval|他 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+井 NN|型 NN|为 NN|其 Bval|他 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+井 NN|型 NN|是 NN|其 Bval|他 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+井 NN|别 NN|为 NN|采 Bval|油 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+井 NN|别 NN|是 NN|采 Bval|油 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+井 NN|别 NN|为 NN|采 Bval|油 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+井 NN|别 NN|是 NN|采 Bval|油 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+井 NN|别 NN|为 NN|补 Bval|充 Mval|油 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+井 NN|别 NN|是 NN|补 Bval|充 Mval|油 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+井 NN|别 NN|为 NN|补 Bval|充 Mval|油 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+井 NN|别 NN|是 NN|补 Bval|充 Mval|油 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+井 NN|别 NN|为 NN|排 Bval|液 Mval|油 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+井 NN|别 NN|是 NN|排 Bval|液 Mval|油 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+井 NN|别 NN|为 NN|排 Bval|液 Mval|油 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+井 NN|别 NN|是 NN|排 Bval|液 Mval|油 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+井 NN|别 NN|为 NN|一 Bval|次 Mval|调 Mval|整 Mval|油 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+井 NN|别 NN|是 NN|一 Bval|次 Mval|调 Mval|整 Mval|油 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+井 NN|别 NN|为 NN|一 Bval|次 Mval|调 Mval|整 Mval|油 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+井 NN|别 NN|是 NN|一 Bval|次 Mval|调 Mval|整 Mval|油 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+井 NN|别 NN|为 NN|采 Bval|油 Mval|井 Mval|二 Mval|次 Mval|调 Mval|整 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+井 NN|别 NN|是 NN|采 Bval|油 Mval|井 Mval|二 Mval|次 Mval|调 Mval|整 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+井 NN|别 NN|为 NN|采 Bval|油 Mval|井 Mval|二 Mval|次 Mval|调 Mval|整 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+井 NN|别 NN|是 NN|采 Bval|油 Mval|井 Mval|二 Mval|次 Mval|调 Mval|整 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+井 NN|别 NN|为 NN|试 Bval|采 Mval|油 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+井 NN|别 NN|是 NN|试 Bval|采 Mval|油 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+井 NN|别 NN|为 NN|试 Bval|采 Mval|油 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+井 NN|别 NN|是 NN|试 Bval|采 Mval|油 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+井 NN|别 NN|为 NN|采 Bval|C Mval|O Mval|2 Mval|气 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+井 NN|别 NN|是 NN|采 Bval|C Mval|O Mval|2 Mval|气 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+井 NN|别 NN|为 NN|采 Bval|C Mval|O Mval|2 Mval|气 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+井 NN|别 NN|是 NN|采 Bval|C Mval|O Mval|2 Mval|气 Mval|井 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+生 NN|产 NN|方 NN|式 NN|为 NN|采 Bval|油 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+生 NN|产 NN|方 NN|式 NN|是 NN|采 Bval|油 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+生 NN|产 NN|方 NN|式 NN|为 NN|采 Bval|油 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+生 NN|产 NN|方 NN|式 NN|是 NN|采 Bval|油 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+生 NN|产 NN|方 NN|式 NN|为 NN|自 Bval|喷 Mval|采 Mval|油 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+生 NN|产 NN|方 NN|式 NN|是 NN|自 Bval|喷 Mval|采 Mval|油 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+生 NN|产 NN|方 NN|式 NN|为 NN|自 Bval|喷 Mval|采 Mval|油 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+生 NN|产 NN|方 NN|式 NN|是 NN|自 Bval|喷 Mval|采 Mval|油 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+生 NN|产 NN|方 NN|式 NN|为 NN|抽 Bval|油 Mval|机 Mval|采 Mval|油 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+生 NN|产 NN|方 NN|式 NN|是 NN|抽 Bval|油 Mval|机 Mval|采 Mval|油 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+生 NN|产 NN|方 NN|式 NN|为 NN|抽 Bval|油 Mval|机 Mval|采 Mval|油 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+生 NN|产 NN|方 NN|式 NN|是 NN|抽 Bval|油 Mval|机 Mval|采 Mval|油 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+生 NN|产 NN|方 NN|式 NN|为 NN|双 Bval|泵 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+生 NN|产 NN|方 NN|式 NN|是 NN|双 Bval|泵 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+生 NN|产 NN|方 NN|式 NN|为 NN|双 Bval|泵 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+生 NN|产 NN|方 NN|式 NN|是 NN|双 Bval|泵 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|品 NN|分 NN|类 NN|为 NN|稠 Bval|油 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|品 NN|分 NN|类 NN|是 NN|稠 Bval|油 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|品 NN|分 NN|类 NN|为 NN|稠 Bval|油 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|品 NN|分 NN|类 NN|是 NN|稠 Bval|油 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|品 NN|分 NN|类 NN|为 NN|稀 Bval|油 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|品 NN|分 NN|类 NN|是 NN|稀 Bval|油 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|品 NN|分 NN|类 NN|为 NN|稀 Bval|油 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|品 NN|分 NN|类 NN|是 NN|稀 Bval|油 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|品 NN|分 NN|类 NN|为 NN|高 Bval|凝 Mval|油 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|品 NN|分 NN|类 NN|是 NN|高 Bval|凝 Mval|油 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|品 NN|分 NN|类 NN|为 NN|高 Bval|凝 Mval|油 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|品 NN|分 NN|类 NN|是 NN|高 Bval|凝 Mval|油 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|品 NN|分 NN|类 NN|为 NN|凝 Bval|析 Mval|油 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|品 NN|分 NN|类 NN|是 NN|凝 Bval|析 Mval|油 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|品 NN|分 NN|类 NN|为 NN|凝 Bval|析 Mval|油 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|品 NN|分 NN|类 NN|是 NN|凝 Bval|析 Mval|油 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+三 NN|采 NN|类 NN|型 NN|为 NN|聚 Bval|合 Mval|物 Mval|驱 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+三 NN|采 NN|类 NN|型 NN|是 NN|聚 Bval|合 Mval|物 Mval|驱 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+三 NN|采 NN|类 NN|型 NN|为 NN|聚 Bval|合 Mval|物 Mval|驱 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+三 NN|采 NN|类 NN|型 NN|是 NN|聚 Bval|合 Mval|物 Mval|驱 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+三 NN|采 NN|类 NN|型 NN|为 NN|碱 Bval|驱 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+三 NN|采 NN|类 NN|型 NN|是 NN|碱 Bval|驱 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+三 NN|采 NN|类 NN|型 NN|为 NN|碱 Bval|驱 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+三 NN|采 NN|类 NN|型 NN|是 NN|碱 Bval|驱 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+三 NN|采 NN|类 NN|型 NN|为 NN|化 Bval|学 Mval|驱 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+三 NN|采 NN|类 NN|型 NN|是 NN|化 Bval|学 Mval|驱 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+三 NN|采 NN|类 NN|型 NN|为 NN|化 Bval|学 Mval|驱 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+三 NN|采 NN|类 NN|型 NN|是 NN|化 Bval|学 Mval|驱 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+三 NN|采 NN|类 NN|型 NN|为 NN|泡 Bval|沫 Mval|复 Mval|合 Mval|驱 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+三 NN|采 NN|类 NN|型 NN|是 NN|泡 Bval|沫 Mval|复 Mval|合 Mval|驱 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+三 NN|采 NN|类 NN|型 NN|为 NN|泡 Bval|沫 Mval|复 Mval|合 Mval|驱 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+三 NN|采 NN|类 NN|型 NN|是 NN|泡 Bval|沫 Mval|复 Mval|合 Mval|驱 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+三 NN|采 NN|类 NN|型 NN|为 NN|交 Bval|联 Mval|聚 Mval|合 Mval|物 Mval|驱 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+三 NN|采 NN|类 NN|型 NN|是 NN|交 Bval|联 Mval|聚 Mval|合 Mval|物 Mval|驱 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+三 NN|采 NN|类 NN|型 NN|为 NN|交 Bval|联 Mval|聚 Mval|合 Mval|物 Mval|驱 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+三 NN|采 NN|类 NN|型 NN|是 NN|交 Bval|联 Mval|聚 Mval|合 Mval|物 Mval|驱 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+三 NN|采 NN|类 NN|型 NN|为 NN|S Bval|M Mval|D Mval|溶 Mval|液 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+三 NN|采 NN|类 NN|型 NN|是 NN|S Bval|M Mval|D Mval|溶 Mval|液 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+三 NN|采 NN|类 NN|型 NN|为 NN|S Bval|M Mval|D Mval|溶 Mval|液 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+三 NN|采 NN|类 NN|型 NN|是 NN|S Bval|M Mval|D Mval|溶 Mval|液 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+三 NN|采 NN|类 NN|型 NN|为 NN|注 Bval|C Mval|O Mval|2 Mval|吞 Mval|吐 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+三 NN|采 NN|类 NN|型 NN|是 NN|注 Bval|C Mval|O Mval|2 Mval|吞 Mval|吐 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+三 NN|采 NN|类 NN|型 NN|为 NN|注 Bval|C Mval|O Mval|2 Mval|吞 Mval|吐 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+三 NN|采 NN|类 NN|型 NN|是 NN|注 Bval|C Mval|O Mval|2 Mval|吞 Mval|吐 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+有 NN|效 NN|厚 NN|度 NN|为 NN|一 Bval|类 Mval|有 Mval|效 Mval|厚 Mval|度 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+有 NN|效 NN|厚 NN|度 NN|是 NN|一 Bval|类 Mval|有 Mval|效 Mval|厚 Mval|度 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+有 NN|效 NN|厚 NN|度 NN|为 NN|一 Bval|类 Mval|有 Mval|效 Mval|厚 Mval|度 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+有 NN|效 NN|厚 NN|度 NN|是 NN|一 Bval|类 Mval|有 Mval|效 Mval|厚 Mval|度 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+有 NN|效 NN|厚 NN|度 NN|为 NN|二 Bval|类 Mval|有 Mval|效 Mval|厚 Mval|度 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+有 NN|效 NN|厚 NN|度 NN|是 NN|二 Bval|类 Mval|有 Mval|效 Mval|厚 Mval|度 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+有 NN|效 NN|厚 NN|度 NN|为 NN|二 Bval|类 Mval|有 Mval|效 Mval|厚 Mval|度 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+有 NN|效 NN|厚 NN|度 NN|是 NN|二 Bval|类 Mval|有 Mval|效 Mval|厚 Mval|度 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+有 NN|效 NN|厚 NN|度 NN|为 NN|一 Bval|加 Mval|二 Mval|类 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+有 NN|效 NN|厚 NN|度 NN|是 NN|一 Bval|加 Mval|二 Mval|类 Eval|的 NN|井 NN|筒 NN|有 NN|哪 NN|些 NN
+有 NN|效 NN|厚 NN|度 NN|为 NN|一 Bval|加 Mval|二 Mval|类 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+有 NN|效 NN|厚 NN|度 NN|是 NN|一 Bval|加 Mval|二 Mval|类 Eval|的 NN|井 NN|筒 NN|有 NN|多 NN|少 NN
+单 NN|元 NN|类 NN|型 NN|为 NN|一 Bval|类 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|哪 NN|些 NN
+单 NN|元 NN|类 NN|型 NN|是 NN|一 Bval|类 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|哪 NN|些 NN
+单 NN|元 NN|类 NN|型 NN|为 NN|一 Bval|类 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|多 NN|少 NN
+单 NN|元 NN|类 NN|型 NN|是 NN|一 Bval|类 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|多 NN|少 NN
+单 NN|元 NN|类 NN|型 NN|为 NN|二 Bval|类 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|哪 NN|些 NN
+单 NN|元 NN|类 NN|型 NN|是 NN|二 Bval|类 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|哪 NN|些 NN
+单 NN|元 NN|类 NN|型 NN|为 NN|二 Bval|类 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|多 NN|少 NN
+单 NN|元 NN|类 NN|型 NN|是 NN|二 Bval|类 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|多 NN|少 NN
+单 NN|元 NN|类 NN|型 NN|为 NN|滚 Bval|动 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|哪 NN|些 NN
+单 NN|元 NN|类 NN|型 NN|是 NN|滚 Bval|动 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|哪 NN|些 NN
+单 NN|元 NN|类 NN|型 NN|为 NN|滚 Bval|动 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|多 NN|少 NN
+单 NN|元 NN|类 NN|型 NN|是 NN|滚 Bval|动 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|多 NN|少 NN
+单 NN|元 NN|类 NN|型 NN|为 NN|派 Bval|生 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|哪 NN|些 NN
+单 NN|元 NN|类 NN|型 NN|是 NN|派 Bval|生 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|哪 NN|些 NN
+单 NN|元 NN|类 NN|型 NN|为 NN|派 Bval|生 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|多 NN|少 NN
+单 NN|元 NN|类 NN|型 NN|是 NN|派 Bval|生 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|多 NN|少 NN
+单 NN|元 NN|类 NN|别 NN|为 NN|正 Bval|常 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|哪 NN|些 NN
+单 NN|元 NN|类 NN|别 NN|是 NN|正 Bval|常 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|哪 NN|些 NN
+单 NN|元 NN|类 NN|别 NN|为 NN|正 Bval|常 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|多 NN|少 NN
+单 NN|元 NN|类 NN|别 NN|是 NN|正 Bval|常 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|多 NN|少 NN
+单 NN|元 NN|类 NN|别 NN|为 NN|报 Bval|废 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|哪 NN|些 NN
+单 NN|元 NN|类 NN|别 NN|是 NN|报 Bval|废 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|哪 NN|些 NN
+单 NN|元 NN|类 NN|别 NN|为 NN|报 Bval|废 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|多 NN|少 NN
+单 NN|元 NN|类 NN|别 NN|是 NN|报 Bval|废 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|多 NN|少 NN
+单 NN|元 NN|类 NN|别 NN|为 NN|合 Bval|计 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|哪 NN|些 NN
+单 NN|元 NN|类 NN|别 NN|是 NN|合 Bval|计 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|哪 NN|些 NN
+单 NN|元 NN|类 NN|别 NN|为 NN|合 Bval|计 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|多 NN|少 NN
+单 NN|元 NN|类 NN|别 NN|是 NN|合 Bval|计 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|多 NN|少 NN
+三 NN|采 NN|类 NN|型 NN|为 NN|聚 Bval|合 Mval|物 Mval|驱 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|哪 NN|些 NN
+三 NN|采 NN|类 NN|型 NN|是 NN|聚 Bval|合 Mval|物 Mval|驱 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|哪 NN|些 NN
+三 NN|采 NN|类 NN|型 NN|为 NN|聚 Bval|合 Mval|物 Mval|驱 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|多 NN|少 NN
+三 NN|采 NN|类 NN|型 NN|是 NN|聚 Bval|合 Mval|物 Mval|驱 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|多 NN|少 NN
+三 NN|采 NN|类 NN|型 NN|为 NN|碱 Bval|驱 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|哪 NN|些 NN
+三 NN|采 NN|类 NN|型 NN|是 NN|碱 Bval|驱 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|哪 NN|些 NN
+三 NN|采 NN|类 NN|型 NN|为 NN|碱 Bval|驱 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|多 NN|少 NN
+三 NN|采 NN|类 NN|型 NN|是 NN|碱 Bval|驱 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|多 NN|少 NN
+三 NN|采 NN|类 NN|型 NN|为 NN|化 Bval|学 Mval|驱 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|哪 NN|些 NN
+三 NN|采 NN|类 NN|型 NN|是 NN|化 Bval|学 Mval|驱 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|哪 NN|些 NN
+三 NN|采 NN|类 NN|型 NN|为 NN|化 Bval|学 Mval|驱 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|多 NN|少 NN
+三 NN|采 NN|类 NN|型 NN|是 NN|化 Bval|学 Mval|驱 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|多 NN|少 NN
+三 NN|采 NN|类 NN|型 NN|为 NN|泡 Bval|沫 Mval|复 Mval|合 Mval|驱 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|哪 NN|些 NN
+三 NN|采 NN|类 NN|型 NN|是 NN|泡 Bval|沫 Mval|复 Mval|合 Mval|驱 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|哪 NN|些 NN
+三 NN|采 NN|类 NN|型 NN|为 NN|泡 Bval|沫 Mval|复 Mval|合 Mval|驱 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|多 NN|少 NN
+三 NN|采 NN|类 NN|型 NN|是 NN|泡 Bval|沫 Mval|复 Mval|合 Mval|驱 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|多 NN|少 NN
+三 NN|采 NN|类 NN|型 NN|为 NN|交 Bval|联 Mval|聚 Mval|合 Mval|物 Mval|驱 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|哪 NN|些 NN
+三 NN|采 NN|类 NN|型 NN|是 NN|交 Bval|联 Mval|聚 Mval|合 Mval|物 Mval|驱 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|哪 NN|些 NN
+三 NN|采 NN|类 NN|型 NN|为 NN|交 Bval|联 Mval|聚 Mval|合 Mval|物 Mval|驱 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|多 NN|少 NN
+三 NN|采 NN|类 NN|型 NN|是 NN|交 Bval|联 Mval|聚 Mval|合 Mval|物 Mval|驱 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|多 NN|少 NN
+三 NN|采 NN|类 NN|型 NN|为 NN|S Bval|M Mval|D Mval|溶 Mval|液 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|哪 NN|些 NN
+三 NN|采 NN|类 NN|型 NN|是 NN|S Bval|M Mval|D Mval|溶 Mval|液 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|哪 NN|些 NN
+三 NN|采 NN|类 NN|型 NN|为 NN|S Bval|M Mval|D Mval|溶 Mval|液 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|多 NN|少 NN
+三 NN|采 NN|类 NN|型 NN|是 NN|S Bval|M Mval|D Mval|溶 Mval|液 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|多 NN|少 NN
+三 NN|采 NN|类 NN|型 NN|为 NN|注 Bval|C Mval|O Mval|2 Mval|吞 Mval|吐 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|哪 NN|些 NN
+三 NN|采 NN|类 NN|型 NN|是 NN|注 Bval|C Mval|O Mval|2 Mval|吞 Mval|吐 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|哪 NN|些 NN
+三 NN|采 NN|类 NN|型 NN|为 NN|注 Bval|C Mval|O Mval|2 Mval|吞 Mval|吐 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|多 NN|少 NN
+三 NN|采 NN|类 NN|型 NN|是 NN|注 Bval|C Mval|O Mval|2 Mval|吞 Mval|吐 Eval|的 NN|开 NN|发 NN|单 NN|元 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|沙 Bval|漠 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|沙 Bval|漠 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|沙 Bval|漠 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|沙 Bval|漠 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|海 Bval|上 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|海 Bval|上 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|海 Bval|上 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|海 Bval|上 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|浅 Bval|海 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|浅 Bval|海 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|浅 Bval|海 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|浅 Bval|海 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|深 Bval|海 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|深 Bval|海 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|深 Bval|海 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|深 Bval|海 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|普 Bval|通 Mval|陆 Mval|上 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|普 Bval|通 Mval|陆 Mval|上 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|普 Bval|通 Mval|陆 Mval|上 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|普 Bval|通 Mval|陆 Mval|上 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|东 Bval|部 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|东 Bval|部 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|东 Bval|部 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|东 Bval|部 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|西 Bval|部 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|西 Bval|部 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|西 Bval|部 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|西 Bval|部 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|稠 Bval|油 Mval|油 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|稠 Bval|油 Mval|油 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|稠 Bval|油 Mval|油 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|稠 Bval|油 Mval|油 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|普 Bval|通 Mval|稠 Mval|油 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|普 Bval|通 Mval|稠 Mval|油 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|普 Bval|通 Mval|稠 Mval|油 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|普 Bval|通 Mval|稠 Mval|油 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|特 Bval|稠 Mval|油 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|特 Bval|稠 Mval|油 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|特 Bval|稠 Mval|油 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|特 Bval|稠 Mval|油 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|超 Bval|稠 Mval|油 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|超 Bval|稠 Mval|油 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|超 Bval|稠 Mval|油 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|超 Bval|稠 Mval|油 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|稀 Bval|油 Mval|油 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|稀 Bval|油 Mval|油 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|稀 Bval|油 Mval|油 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|稀 Bval|油 Mval|油 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|凝 Bval|析 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|凝 Bval|析 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|凝 Bval|析 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|凝 Bval|析 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|挥 Bval|发 Mval|油 Mval|油 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|挥 Bval|发 Mval|油 Mval|油 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|挥 Bval|发 Mval|油 Mval|油 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|挥 Bval|发 Mval|油 Mval|油 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|高 Bval|凝 Mval|油 Mval|油 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|高 Bval|凝 Mval|油 Mval|油 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|高 Bval|凝 Mval|油 Mval|油 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|高 Bval|凝 Mval|油 Mval|油 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|其 Bval|它 Mval|油 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|其 Bval|它 Mval|油 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|其 Bval|它 Mval|油 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|其 Bval|它 Mval|油 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|特 Bval|大 Mval|型 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|特 Bval|大 Mval|型 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|特 Bval|大 Mval|型 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|特 Bval|大 Mval|型 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|大 Bval|型 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|大 Bval|型 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|大 Bval|型 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|大 Bval|型 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|中 Bval|型 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|中 Bval|型 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|中 Bval|型 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|中 Bval|型 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|小 Bval|型 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|小 Bval|型 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|小 Bval|型 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|小 Bval|型 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|特 Bval|小 Mval|型 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|特 Bval|小 Mval|型 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|特 Bval|小 Mval|型 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|特 Bval|小 Mval|型 Mval|油 Mval|田 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|异 Bval|常 Mval|高 Mval|地 Mval|层 Mval|压 Mval|力 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|异 Bval|常 Mval|高 Mval|地 Mval|层 Mval|压 Mval|力 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|异 Bval|常 Mval|高 Mval|地 Mval|层 Mval|压 Mval|力 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|异 Bval|常 Mval|高 Mval|地 Mval|层 Mval|压 Mval|力 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|正 Bval|常 Mval|地 Mval|层 Mval|压 Mval|力 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|正 Bval|常 Mval|地 Mval|层 Mval|压 Mval|力 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|正 Bval|常 Mval|地 Mval|层 Mval|压 Mval|力 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|正 Bval|常 Mval|地 Mval|层 Mval|压 Mval|力 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|正 Bval|常 Mval|温 Mval|度 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|正 Bval|常 Mval|温 Mval|度 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|正 Bval|常 Mval|温 Mval|度 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|正 Bval|常 Mval|温 Mval|度 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|异 Bval|常 Mval|低 Mval|温 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|异 Bval|常 Mval|低 Mval|温 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|异 Bval|常 Mval|低 Mval|温 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|异 Bval|常 Mval|低 Mval|温 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|异 Bval|常 Mval|高 Mval|温 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|异 Bval|常 Mval|高 Mval|温 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|异 Bval|常 Mval|高 Mval|温 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|异 Bval|常 Mval|高 Mval|温 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|特 Bval|高 Mval|渗 Mval|透 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|特 Bval|高 Mval|渗 Mval|透 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|特 Bval|高 Mval|渗 Mval|透 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|特 Bval|高 Mval|渗 Mval|透 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|高 Bval|渗 Mval|透 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|高 Bval|渗 Mval|透 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|高 Bval|渗 Mval|透 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|高 Bval|渗 Mval|透 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|中 Bval|高 Mval|渗 Mval|透 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|中 Bval|高 Mval|渗 Mval|透 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|中 Bval|高 Mval|渗 Mval|透 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|中 Bval|高 Mval|渗 Mval|透 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|中 Bval|渗 Mval|透 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|中 Bval|渗 Mval|透 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|中 Bval|渗 Mval|透 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|中 Bval|渗 Mval|透 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|中 Bval|低 Mval|渗 Mval|透 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|中 Bval|低 Mval|渗 Mval|透 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|中 Bval|低 Mval|渗 Mval|透 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|中 Bval|低 Mval|渗 Mval|透 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|低 Bval|渗 Mval|透 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|低 Bval|渗 Mval|透 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|低 Bval|渗 Mval|透 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|低 Bval|渗 Mval|透 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|特 Bval|低 Mval|渗 Mval|透 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|特 Bval|低 Mval|渗 Mval|透 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|特 Bval|低 Mval|渗 Mval|透 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|特 Bval|低 Mval|渗 Mval|透 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|超 Bval|低 Mval|渗 Mval|透 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|超 Bval|低 Mval|渗 Mval|透 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|超 Bval|低 Mval|渗 Mval|透 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|超 Bval|低 Mval|渗 Mval|透 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|构 Bval|造 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|构 Bval|造 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|构 Bval|造 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|构 Bval|造 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|整 Bval|装 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|整 Bval|装 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|整 Bval|装 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|整 Bval|装 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|断 Bval|块 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|断 Bval|块 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|断 Bval|块 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|断 Bval|块 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|背 Bval|斜 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|背 Bval|斜 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|背 Bval|斜 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|背 Bval|斜 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|断 Bval|鼻 Mval|构 Mval|造 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|断 Bval|鼻 Mval|构 Mval|造 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|断 Bval|鼻 Mval|构 Mval|造 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|断 Bval|鼻 Mval|构 Mval|造 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|古 Bval|潜 Mval|山 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|古 Bval|潜 Mval|山 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|古 Bval|潜 Mval|山 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|古 Bval|潜 Mval|山 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|其 Bval|它 Mval|构 Mval|造 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|其 Bval|它 Mval|构 Mval|造 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|其 Bval|它 Mval|构 Mval|造 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|其 Bval|它 Mval|构 Mval|造 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|岩 Bval|性 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|岩 Bval|性 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|岩 Bval|性 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|岩 Bval|性 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|地 Bval|层 Mval|- Mval|岩 Mval|性 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|地 Bval|层 Mval|- Mval|岩 Mval|性 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|地 Bval|层 Mval|- Mval|岩 Mval|性 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|地 Bval|层 Mval|- Mval|岩 Mval|性 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|特 Bval|殊 Mval|岩 Mval|性 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|特 Bval|殊 Mval|岩 Mval|性 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|特 Bval|殊 Mval|岩 Mval|性 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|特 Bval|殊 Mval|岩 Mval|性 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|泥 Bval|岩 Mval|裂 Mval|缝 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|泥 Bval|岩 Mval|裂 Mval|缝 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|泥 Bval|岩 Mval|裂 Mval|缝 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|泥 Bval|岩 Mval|裂 Mval|缝 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|不 Bval|整 Mval|合 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|不 Bval|整 Mval|合 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|不 Bval|整 Mval|合 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|不 Bval|整 Mval|合 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|风 Bval|化 Mval|壳 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|风 Bval|化 Mval|壳 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|风 Bval|化 Mval|壳 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|风 Bval|化 Mval|壳 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|其 Bval|它 Mval|岩 Mval|性 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|其 Bval|它 Mval|岩 Mval|性 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|其 Bval|它 Mval|岩 Mval|性 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|其 Bval|它 Mval|岩 Mval|性 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|浅 Bval|层 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|浅 Bval|层 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|浅 Bval|层 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|浅 Bval|层 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|中 Bval|深 Mval|层 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|中 Bval|深 Mval|层 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|中 Bval|深 Mval|层 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|中 Bval|深 Mval|层 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|深 Bval|层 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|深 Bval|层 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|深 Bval|层 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|深 Bval|层 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|超 Bval|深 Mval|层 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|超 Bval|深 Mval|层 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|超 Bval|深 Mval|层 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|超 Bval|深 Mval|层 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|砾 Bval|岩 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|砾 Bval|岩 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|砾 Bval|岩 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|砾 Bval|岩 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|砂 Bval|岩 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|砂 Bval|岩 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|砂 Bval|岩 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|砂 Bval|岩 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|层 Bval|状 Mval|砂 Mval|岩 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|层 Bval|状 Mval|砂 Mval|岩 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|层 Bval|状 Mval|砂 Mval|岩 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|层 Bval|状 Mval|砂 Mval|岩 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|块 Bval|状 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|块 Bval|状 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|块 Bval|状 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|块 Bval|状 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|碳 Bval|酸 Mval|盐 Mval|岩 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|碳 Bval|酸 Mval|盐 Mval|岩 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|碳 Bval|酸 Mval|盐 Mval|岩 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|碳 Bval|酸 Mval|盐 Mval|岩 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|粘 Bval|土 Mval|岩 Mval|（ Mval|泥 Mval|岩 Mval|） Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|粘 Bval|土 Mval|岩 Mval|（ Mval|泥 Mval|岩 Mval|） Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|粘 Bval|土 Mval|岩 Mval|（ Mval|泥 Mval|岩 Mval|） Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|粘 Bval|土 Mval|岩 Mval|（ Mval|泥 Mval|岩 Mval|） Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|火 Bval|山 Mval|碎 Mval|屑 Mval|岩 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|火 Bval|山 Mval|碎 Mval|屑 Mval|岩 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|火 Bval|山 Mval|碎 Mval|屑 Mval|岩 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|火 Bval|山 Mval|碎 Mval|屑 Mval|岩 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|页 Bval|岩 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|页 Bval|岩 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|页 Bval|岩 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|页 Bval|岩 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|变 Bval|质 Mval|岩 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|变 Bval|质 Mval|岩 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|变 Bval|质 Mval|岩 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|变 Bval|质 Mval|岩 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|侵 Bval|入 Mval|岩 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|侵 Bval|入 Mval|岩 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|侵 Bval|入 Mval|岩 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|侵 Bval|入 Mval|岩 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|喷 Bval|出 Mval|岩 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|喷 Bval|出 Mval|岩 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|喷 Bval|出 Mval|岩 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|喷 Bval|出 Mval|岩 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|边 Bval|底 Mval|水 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|边 Bval|底 Mval|水 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|边 Bval|底 Mval|水 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|边 Bval|底 Mval|水 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|边 Bval|水 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|边 Bval|水 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|边 Bval|水 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|边 Bval|水 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|低 Bval|水 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|低 Bval|水 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|低 Bval|水 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|低 Bval|水 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|无 Bval|边 Mval|底 Mval|水 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|无 Bval|边 Mval|底 Mval|水 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|无 Bval|边 Mval|底 Mval|水 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|无 Bval|边 Mval|底 Mval|水 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|气 Bval|顶 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|气 Bval|顶 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|气 Bval|顶 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|气 Bval|顶 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|孔 Bval|隙 Mval|型 Mval|砂 Mval|泥 Mval|岩 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|孔 Bval|隙 Mval|型 Mval|砂 Mval|泥 Mval|岩 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|孔 Bval|隙 Mval|型 Mval|砂 Mval|泥 Mval|岩 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|孔 Bval|隙 Mval|型 Mval|砂 Mval|泥 Mval|岩 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|裂 Bval|缝 Mval|型 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|裂 Bval|缝 Mval|型 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|裂 Bval|缝 Mval|型 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|裂 Bval|缝 Mval|型 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|缝 Bval|洞 Mval|型 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|缝 Bval|洞 Mval|型 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|为 NN|缝 Bval|洞 Mval|型 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+油 NN|气 NN|藏 NN|类 NN|型 NN|是 NN|缝 Bval|洞 Mval|型 Mval|油 Mval|气 Mval|藏 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+储 NN|层 NN|岩 NN|性 NN|为 NN|白 Bval|云 Mval|岩 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+储 NN|层 NN|岩 NN|性 NN|是 NN|白 Bval|云 Mval|岩 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+储 NN|层 NN|岩 NN|性 NN|为 NN|白 Bval|云 Mval|岩 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+储 NN|层 NN|岩 NN|性 NN|是 NN|白 Bval|云 Mval|岩 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+储 NN|层 NN|岩 NN|性 NN|为 NN|变 Bval|质 Mval|岩 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+储 NN|层 NN|岩 NN|性 NN|是 NN|变 Bval|质 Mval|岩 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+储 NN|层 NN|岩 NN|性 NN|为 NN|变 Bval|质 Mval|岩 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+储 NN|层 NN|岩 NN|性 NN|是 NN|变 Bval|质 Mval|岩 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+储 NN|层 NN|岩 NN|性 NN|为 NN|灰 Bval|岩 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+储 NN|层 NN|岩 NN|性 NN|是 NN|灰 Bval|岩 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+储 NN|层 NN|岩 NN|性 NN|为 NN|灰 Bval|岩 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+储 NN|层 NN|岩 NN|性 NN|是 NN|灰 Bval|岩 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+储 NN|层 NN|岩 NN|性 NN|为 NN|火 Bval|成 Mval|岩 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+储 NN|层 NN|岩 NN|性 NN|是 NN|火 Bval|成 Mval|岩 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+储 NN|层 NN|岩 NN|性 NN|为 NN|火 Bval|成 Mval|岩 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+储 NN|层 NN|岩 NN|性 NN|是 NN|火 Bval|成 Mval|岩 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+储 NN|层 NN|岩 NN|性 NN|为 NN|砂 Bval|岩 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+储 NN|层 NN|岩 NN|性 NN|是 NN|砂 Bval|岩 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+储 NN|层 NN|岩 NN|性 NN|为 NN|砂 Bval|岩 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+储 NN|层 NN|岩 NN|性 NN|是 NN|砂 Bval|岩 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+储 NN|层 NN|岩 NN|性 NN|为 NN|泥 Bval|岩 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+储 NN|层 NN|岩 NN|性 NN|是 NN|泥 Bval|岩 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+储 NN|层 NN|岩 NN|性 NN|为 NN|泥 Bval|岩 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+储 NN|层 NN|岩 NN|性 NN|是 NN|泥 Bval|岩 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+储 NN|层 NN|岩 NN|性 NN|为 NN|其 Bval|它 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+储 NN|层 NN|岩 NN|性 NN|是 NN|其 Bval|它 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|哪 NN|些 NN
+储 NN|层 NN|岩 NN|性 NN|为 NN|其 Bval|它 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+储 NN|层 NN|岩 NN|性 NN|是 NN|其 Bval|它 Eval|的 NN|油 NN|气 NN|藏 NN|有 NN|多 NN|少 NN
+类 NN|别 NN|代 NN|码 NN|为 NN|正 Bval|常 Eval|的 NN|区 NN|块 NN|有 NN|哪 NN|些 NN
+类 NN|别 NN|代 NN|码 NN|是 NN|正 Bval|常 Eval|的 NN|区 NN|块 NN|有 NN|哪 NN|些 NN
+类 NN|别 NN|代 NN|码 NN|为 NN|正 Bval|常 Eval|的 NN|区 NN|块 NN|有 NN|多 NN|少 NN
+类 NN|别 NN|代 NN|码 NN|是 NN|正 Bval|常 Eval|的 NN|区 NN|块 NN|有 NN|多 NN|少 NN
+类 NN|别 NN|代 NN|码 NN|为 NN|报 Bval|废 Eval|的 NN|区 NN|块 NN|有 NN|哪 NN|些 NN
+类 NN|别 NN|代 NN|码 NN|是 NN|报 Bval|废 Eval|的 NN|区 NN|块 NN|有 NN|哪 NN|些 NN
+类 NN|别 NN|代 NN|码 NN|为 NN|报 Bval|废 Eval|的 NN|区 NN|块 NN|有 NN|多 NN|少 NN
+类 NN|别 NN|代 NN|码 NN|是 NN|报 Bval|废 Eval|的 NN|区 NN|块 NN|有 NN|多 NN|少 NN
+类 NN|别 NN|代 NN|码 NN|为 NN|合 Bval|计 Eval|的 NN|区 NN|块 NN|有 NN|哪 NN|些 NN
+类 NN|别 NN|代 NN|码 NN|是 NN|合 Bval|计 Eval|的 NN|区 NN|块 NN|有 NN|哪 NN|些 NN
+类 NN|别 NN|代 NN|码 NN|为 NN|合 Bval|计 Eval|的 NN|区 NN|块 NN|有 NN|多 NN|少 NN
+类 NN|别 NN|代 NN|码 NN|是 NN|合 Bval|计 Eval|的 NN|区 NN|块 NN|有 NN|多 NN|少 NN
+地 NN|层 NN|级 NN|别 NN|为 NN|群 Bval|的 NN|地 NN|层 NN|有 NN|哪 NN|些 NN
+地 NN|层 NN|级 NN|别 NN|是 NN|群 Bval|的 NN|地 NN|层 NN|有 NN|哪 NN|些 NN
+地 NN|层 NN|级 NN|别 NN|为 NN|群 Bval|的 NN|地 NN|层 NN|有 NN|多 NN|少 NN
+地 NN|层 NN|级 NN|别 NN|是 NN|群 Bval|的 NN|地 NN|层 NN|有 NN|多 NN|少 NN
+地 NN|层 NN|级 NN|别 NN|为 NN|组 Bval|的 NN|地 NN|层 NN|有 NN|哪 NN|些 NN
+地 NN|层 NN|级 NN|别 NN|是 NN|组 Bval|的 NN|地 NN|层 NN|有 NN|哪 NN|些 NN
+地 NN|层 NN|级 NN|别 NN|为 NN|组 Bval|的 NN|地 NN|层 NN|有 NN|多 NN|少 NN
+地 NN|层 NN|级 NN|别 NN|是 NN|组 Bval|的 NN|地 NN|层 NN|有 NN|多 NN|少 NN
+地 NN|层 NN|级 NN|别 NN|为 NN|段 Bval|的 NN|地 NN|层 NN|有 NN|哪 NN|些 NN
+地 NN|层 NN|级 NN|别 NN|是 NN|段 Bval|的 NN|地 NN|层 NN|有 NN|哪 NN|些 NN
+地 NN|层 NN|级 NN|别 NN|为 NN|段 Bval|的 NN|地 NN|层 NN|有 NN|多 NN|少 NN
+地 NN|层 NN|级 NN|别 NN|是 NN|段 Bval|的 NN|地 NN|层 NN|有 NN|多 NN|少 NN
+地 NN|层 NN|级 NN|别 NN|为 NN|亚 Bval|段 Eval|的 NN|地 NN|层 NN|有 NN|哪 NN|些 NN
+地 NN|层 NN|级 NN|别 NN|是 NN|亚 Bval|段 Eval|的 NN|地 NN|层 NN|有 NN|哪 NN|些 NN
+地 NN|层 NN|级 NN|别 NN|为 NN|亚 Bval|段 Eval|的 NN|地 NN|层 NN|有 NN|多 NN|少 NN
+地 NN|层 NN|级 NN|别 NN|是 NN|亚 Bval|段 Eval|的 NN|地 NN|层 NN|有 NN|多 NN|少 NN
+处 NN|理 NN|方 NN|式 NN|为 NN|重 Bval|力 Mval|流 Mval|程 Eval|的 NN|站 NN|库 NN|有 NN|哪 NN|些 NN
+处 NN|理 NN|方 NN|式 NN|是 NN|重 Bval|力 Mval|流 Mval|程 Eval|的 NN|站 NN|库 NN|有 NN|哪 NN|些 NN
+处 NN|理 NN|方 NN|式 NN|为 NN|重 Bval|力 Mval|流 Mval|程 Eval|的 NN|站 NN|库 NN|有 NN|多 NN|少 NN
+处 NN|理 NN|方 NN|式 NN|是 NN|重 Bval|力 Mval|流 Mval|程 Eval|的 NN|站 NN|库 NN|有 NN|多 NN|少 NN
+处 NN|理 NN|方 NN|式 NN|为 NN|压 Bval|力 Mval|流 Mval|程 Eval|的 NN|站 NN|库 NN|有 NN|哪 NN|些 NN
+处 NN|理 NN|方 NN|式 NN|是 NN|压 Bval|力 Mval|流 Mval|程 Eval|的 NN|站 NN|库 NN|有 NN|哪 NN|些 NN
+处 NN|理 NN|方 NN|式 NN|为 NN|压 Bval|力 Mval|流 Mval|程 Eval|的 NN|站 NN|库 NN|有 NN|多 NN|少 NN
+处 NN|理 NN|方 NN|式 NN|是 NN|压 Bval|力 Mval|流 Mval|程 Eval|的 NN|站 NN|库 NN|有 NN|多 NN|少 NN
+处 NN|理 NN|方 NN|式 NN|为 NN|气 Bval|浮 Mval|流 Mval|程 Eval|的 NN|站 NN|库 NN|有 NN|哪 NN|些 NN
+处 NN|理 NN|方 NN|式 NN|是 NN|气 Bval|浮 Mval|流 Mval|程 Eval|的 NN|站 NN|库 NN|有 NN|哪 NN|些 NN
+处 NN|理 NN|方 NN|式 NN|为 NN|气 Bval|浮 Mval|流 Mval|程 Eval|的 NN|站 NN|库 NN|有 NN|多 NN|少 NN
+处 NN|理 NN|方 NN|式 NN|是 NN|气 Bval|浮 Mval|流 Mval|程 Eval|的 NN|站 NN|库 NN|有 NN|多 NN|少 NN
+过 NN|滤 NN|方 NN|式 NN|为 NN|石 Bval|英 Mval|砂 Eval|的 NN|站 NN|库 NN|有 NN|哪 NN|些 NN
+过 NN|滤 NN|方 NN|式 NN|是 NN|石 Bval|英 Mval|砂 Eval|的 NN|站 NN|库 NN|有 NN|哪 NN|些 NN
+过 NN|滤 NN|方 NN|式 NN|为 NN|石 Bval|英 Mval|砂 Eval|的 NN|站 NN|库 NN|有 NN|多 NN|少 NN
+过 NN|滤 NN|方 NN|式 NN|是 NN|石 Bval|英 Mval|砂 Eval|的 NN|站 NN|库 NN|有 NN|多 NN|少 NN
+过 NN|滤 NN|方 NN|式 NN|为 NN|双 Bval|滤 Mval|料 Eval|的 NN|站 NN|库 NN|有 NN|哪 NN|些 NN
+过 NN|滤 NN|方 NN|式 NN|是 NN|双 Bval|滤 Mval|料 Eval|的 NN|站 NN|库 NN|有 NN|哪 NN|些 NN
+过 NN|滤 NN|方 NN|式 NN|为 NN|双 Bval|滤 Mval|料 Eval|的 NN|站 NN|库 NN|有 NN|多 NN|少 NN
+过 NN|滤 NN|方 NN|式 NN|是 NN|双 Bval|滤 Mval|料 Eval|的 NN|站 NN|库 NN|有 NN|多 NN|少 NN
+过 NN|滤 NN|方 NN|式 NN|为 NN|精 Bval|细 Mval|过 Mval|滤 Eval|的 NN|站 NN|库 NN|有 NN|哪 NN|些 NN
+过 NN|滤 NN|方 NN|式 NN|是 NN|精 Bval|细 Mval|过 Mval|滤 Eval|的 NN|站 NN|库 NN|有 NN|哪 NN|些 NN
+过 NN|滤 NN|方 NN|式 NN|为 NN|精 Bval|细 Mval|过 Mval|滤 Eval|的 NN|站 NN|库 NN|有 NN|多 NN|少 NN
+过 NN|滤 NN|方 NN|式 NN|是 NN|精 Bval|细 Mval|过 Mval|滤 Eval|的 NN|站 NN|库 NN|有 NN|多 NN|少 NN

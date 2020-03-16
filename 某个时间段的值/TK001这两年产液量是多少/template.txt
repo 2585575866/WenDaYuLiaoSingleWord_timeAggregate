@@ -1,0 +1,2 @@
+#repacleInstance NN|replaceTime NN|的 NN|replaceAttribute NN|是 NN|多 NN|少  NN
+*replaceTime NN|repacleInstance NN|的 NN|replaceAttribute NN|是 NN|多 NN|少  NN

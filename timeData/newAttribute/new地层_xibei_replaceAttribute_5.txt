@@ -1,0 +1,7 @@
+主 NN|要 NN|岩 NN|性 NN
+地 NN|层 NN|代 NN|码 NN
+地 NN|层 NN|名 NN|称 NN
+层 NN|位 NN|岩 NN|性 NN|描 NN|述 NN
+录 NN|井 NN|显 NN|示 NN
+明 NN|日 NN|地 NN|层 NN|预 NN|测 NN
+油 NN|气 NN|显 NN|示 NN
