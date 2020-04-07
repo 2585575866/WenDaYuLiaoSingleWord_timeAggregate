@@ -24,8 +24,6 @@ for concept in open("replaceConcept_1",encoding="utf-8"):
 print("开始。。。。。")
 with open("result_1.txt","w",encoding="utf-8") as resultFile:
     for newLocal in replaceLocal:
-        if (len(newLocal) == 0):
-            break
         for newConcept in replaceConcept:
                 # print(tmpTime)
                 for line in open("template.txt",encoding="utf-8"):
@@ -34,21 +32,18 @@ with open("result_1.txt","w",encoding="utf-8") as resultFile:
                     # print(splitWords)
                     tmpLocal=""
                     tmpConcept=""
-                    if(len(newLocal)==1):
-                        tmpLocal = " Sdloc|"
-                    if(len(newLocal) > 1):
-                        for index,singleStr in enumerate(newLocal):
-                            if(index == 0):
-                                tmpLocal = tmpLocal + singleStr + " Bdloc|"
-                            elif(index == len(newLocal)-1):
-                                tmpLocal = tmpLocal + singleStr + " Edloc|"
-                            else:
-                                tmpLocal = tmpLocal + singleStr + " Mdloc|"
+                    for index,singleStr in enumerate(newLocal):
+                        if(index == 0):
+                            tmpLocal = tmpLocal + singleStr + " Bgloc|"
+                        elif(index == len(newLocal)-1):
+                            tmpLocal = tmpLocal + singleStr + " Egloc|"
+                        else:
+                            tmpLocal = tmpLocal + singleStr + " Mgloc|"
 
-                    for singleStr in newConcept:
-                        tmpConcept = tmpConcept+singleStr + " NN|"
+                    # for singleStr in newConcept:
+                    #     tmpConcept = tmpConcept+singleStr + " NN|"
 
-                    newLine = tmpLocal  + splitWords[1] + "|" + splitWords[2] + "|" +splitWords[3] + "|" +tmpConcept
+                    newLine = tmpLocal  + splitWords[1] + "|" + newConcept+" NN|"
                     newLine=newLine[0:-1]
                     resultFile.write(newLine)
                     resultFile.write("\n")

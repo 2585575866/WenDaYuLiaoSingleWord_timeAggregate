@@ -1,0 +1,23 @@
+井型为直井的井有哪些
+#replaceAttribute NN|为 NN|replaceValue NN|的 NN|repalceConcept NN|有 NN|哪 NN|些 NN
+#replaceAttribute NN|是 NN|replaceValue NN|的 NN|repalceConcept NN|有 NN|哪 NN|些 NN
+#replaceAttribute NN|为 NN|replaceValue NN|的 NN|repalceConcept NN|有 NN|多 NN|少 NN
+#replaceAttribute NN|是 NN|replaceValue NN|的 NN|repalceConcept NN|有 NN|多 NN|少 NN
+
+井型为直井的井有哪些？
+@replaceAttribute NN|为 NN|replaceValue NN|的 NN|repalceConcept NN|有 NN|哪 NN|些 NN|？ NN
+@replaceAttribute NN|是 NN|replaceValue NN|的 NN|repalceConcept NN|有 NN|哪 NN|些 NN|？ NN
+@replaceAttribute NN|为 NN|replaceValue NN|的 NN|repalceConcept NN|有 NN|多 NN|少 NN|？ NN
+@replaceAttribute NN|是 NN|replaceValue NN|的 NN|repalceConcept NN|有 NN|多 NN|少 NN|？ NN
+
+井型为直井的有哪些井
+$replaceAttribute NN|为 NN|replaceValue NN|的 NN|有 NN|哪 NN|些 NN|repalceConcept NN
+$replaceAttribute NN|是 NN|replaceValue NN|的 NN|有 NN|哪 NN|些 NN|repalceConcept NN
+$replaceAttribute NN|为 NN|replaceValue NN|的 NN|有 NN|多 NN|少 NN|repalceConcept NN
+$replaceAttribute NN|是 NN|replaceValue NN|的 NN|有 NN|多 NN|少 NN|repalceConcept NN
+
+井型为直井的有哪些井？
+*replaceAttribute NN|为 NN|replaceValue NN|的 NN|有 NN|哪 NN|些 NN|repalceConcept NN|？ NN
+*replaceAttribute NN|是 NN|replaceValue NN|的 NN|有 NN|哪 NN|些 NN|repalceConcept NN|？ NN
+*replaceAttribute NN|为 NN|replaceValue NN|的 NN|有 NN|多 NN|少 NN|repalceConcept NN|？ NN
+*replaceAttribute NN|是 NN|replaceValue NN|的 NN|有 NN|多 NN|少 NN|repalceConcept NN|？ NN

@@ -1,8 +1,24 @@
+KZ1-13井2019年1月至2019年12月泵径总共是多少
 #replaceInstance NN|replceTime NN|到 NN|replaceTime NN|的 NN|replaceAttribute NN|总 NN|共 NN|是 NN|多 NN|少 NN
 #replaceInstance NN|replceTime NN|至 NN|replaceTime NN|的 NN|replaceAttribute NN|总 NN|共 NN|是 NN|多 NN|少 NN
 #replaceInstance NN|replceTime NN|- NN|replaceTime NN|的 NN|replaceAttribute NN|总 NN|共 NN|是 NN|多 NN|少 NN
+
+KZ1-13井2019年1月至2019年12月泵径是多少
 *replaceInstance NN|replceTime NN|到 NN|replaceTime NN|的 NN|replaceAttribute NN|是 NN|多 NN|少 NN
 *replaceInstance NN|replceTime NN|至 NN|replaceTime NN|的 NN|replaceAttribute NN|是 NN|多 NN|少 NN
-*replaceInstance NN|replceTime NN|- NN|replaceTime NN|的 NN|replaceAttribute NN|总 NN|共 NN|是 NN|多 NN|少 NN
+*replaceInstance NN|replceTime NN|- NN|replaceTime NN|的 NN|replaceAttribute NN|是 NN|多 NN|少 NN
+
+KZ1-13井从2019年1月至2019年12月泵径是多少
 @replaceInstance NN|从 NN|replceTime NN|到 NN|replaceTime NN|的 NN|replaceAttribute NN|是 NN|多 NN|少 NN
 @replaceInstance NN|从 NN|replceTime NN|至 NN|replaceTime NN|的 NN|replaceAttribute NN|是 NN|多 NN|少 NN
+
+2019年1月至2019年12月KZ1-13井泵径是多少
+$replceTime NN|到 NN|replaceTime NN|replaceInstance NN|的 NN|replaceAttribute NN|是 NN|多 NN|少 NN
+$replceTime NN|至 NN|replaceTime NN|replaceInstance NN|的 NN|replaceAttribute NN|是 NN|多 NN|少 NN
+
+KZ1-13井泵径从2019年1月至2019年12月是多少
+%replaceInstance NN|replaceAttribute NN|从 NN|replceTime NN|到 NN|replaceTime NN|是 NN|多 NN|少 NN
+%replaceInstance NN|replaceAttribute NN|从 NN|replceTime NN|至 NN|replaceTime NN|是 NN|多 NN|少 NN
+
+
+

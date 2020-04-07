@@ -1,0 +1,110 @@
+一组有多少井筒
+1replaceLocal NN|有哪些 NN|replaceConcept NN
+1replaceLocal NN|有多少 NN|replaceConcept NN
+1replaceLocal NN|总共有多少 NN|replaceConcept NN
+1replaceLocal NN|总共是多少 NN|replaceConcept NN
+
+一组有多少口井筒
+2replaceLocal NN|有多少 NN|口 NN|replaceConcept NN
+2replaceLocal NN|总共有多少 NN|口 NN|replaceConcept NN
+2replaceLocal NN|总共是多少 NN|口 NN|replaceConcept NN
+
+一组的井筒有多少
+3replaceLocal NN|的 NN|replaceConcept NN|有哪些 NN
+3replaceLocal NN|的 NN|replaceConcept NN|有多少 NN
+3replaceLocal NN|的 NN|replaceConcept NN|总共有多少 NN
+3replaceLocal NN|的 NN|replaceConcept NN|总共是多少 NN
+
+一组的井筒有多少口
+4replaceLocal NN|的 NN|replaceConcept NN|有多少 NN|口 NN
+4replaceLocal NN|的 NN|replaceConcept NN|总共有多少 NN|口 NN
+4replaceLocal NN|的 NN|replaceConcept NN|总共是多少 NN|口 NN
+
+一组有哪些井筒?(多了问号）
+5replaceLocal NN|有哪些 NN|replaceConcept NN|？ NN
+5replaceLocal NN|有多少 NN|replaceConcept NN|？ NN
+5replaceLocal NN|总共有多少 NN|replaceConcept NN|？ NN
+5replaceLocal NN|总共是多少 NN|replaceConcept NN|？ NN
+
+
+一组有多少口井筒?(多了问号）
+6replaceLocal NN|有多少 NN|口 NN|replaceConcept NN|？ NN
+6replaceLocal NN|总共有多少 NN|口 NN|replaceConcept NN|？ NN
+6replaceLocal NN|总共是多少 NN|口 NN|replaceConcept NN|？ NN
+
+一组的井筒有哪些?（多了问号）
+7replaceLocal NN|的 NN|replaceConcept NN|有哪些 NN|？ NN
+7replaceLocal NN|的 NN|replaceConcept NN|有多少 NN|？ NN
+7replaceLocal NN|的 NN|replaceConcept NN|总共有多少 NN|？ NN
+7replaceLocal NN|的 NN|replaceConcept NN|总共是多少 NN|？ NN
+
+一组的井筒有多少口?（多了问号）
+8replaceLocal NN|的 NN|replaceConcept NN|有多少 NN|口 NN|？ NN
+8replaceLocal NN|的 NN|replaceConcept NN|总共有多少 NN|口 NN|？ NN
+8replaceLocal NN|的 NN|replaceConcept NN|总共是多少 NN|口 NN|？ NN
+
+地理位置一组有哪些井筒
+9地理位置 NN|replaceLocal NN|有哪些 NN|replaceConcept NN
+9地理位置 NN|replaceLocal NN|有多少 NN|replaceConcept NN
+9地理位置 NN|replaceLocal NN|总共有多少 NN|replaceConcept NN
+9地理位置 NN|replaceLocal NN|总共是多少 NN|replaceConcept NN
+
+地理位置一组有多少口井筒
+10地理位置 NN|replaceLocal NN|有多少 NN|口 NN|replaceConcept NN
+10地理位置 NN|replaceLocal NN|总共有多少 NN|口 NN|replaceConcept NN
+10地理位置 NN|replaceLocal NN|总共是多少 NN|口 NN|replaceConcept NN
+
+地理位置是一组的有哪些井筒
+11地理位置 NN|是 NN|replaceLocal NN|的 NN|有哪些 NN|replaceConcept NN
+11地理位置 NN|是 NN|replaceLocal NN|的 NN|有多少 NN|replaceConcept NN
+11地理位置 NN|是 NN|replaceLocal NN|的 NN|总共有多少 NN|replaceConcept NN
+11地理位置 NN|是 NN|replaceLocal NN|的 NN|总共是多少 NN|replaceConcept NN
+
+地理位置是一组的有多少口井筒
+12地理位置 NN|是 NN|replaceLocal NN|的 NN|有多少 NN|口 NN|replaceConcept NN
+12地理位置 NN|是 NN|replaceLocal NN|的 NN|总共有多少 NN|口 NN|replaceConcept NN
+12地理位置 NN|是 NN|replaceLocal NN|的 NN|总共是多少 NN|口 NN|replaceConcept NN
+
+地理位置是一组的井筒有哪些
+13地理位置 NN|是 NN|replaceLocal NN|的 NN|replaceConcept NN|有哪些 NN
+13地理位置 NN|是 NN|replaceLocal NN|的 NN|replaceConcept NN|有多少 NN
+13地理位置 NN|是 NN|replaceLocal NN|的 NN|replaceConcept NN|总共有多少 NN
+13地理位置 NN|是 NN|replaceLocal NN|的 NN|replaceConcept NN|总共是多少 NN
+
+地理位置是一组的井筒有多少口
+14地理位置 NN|是 NN|replaceLocal NN|的 NN|replaceConcept NN|有多少 NN|口 NN
+14地理位置 NN|是 NN|replaceLocal NN|的 NN|replaceConcept NN|总共有多少 NN|口 NN
+14地理位置 NN|是 NN|replaceLocal NN|的 NN|replaceConcept NN|总共是多少 NN|口 NN
+
+地理位置一组有哪些井筒？（多了问号）
+15地理位置 NN|replaceLocal NN|有哪些 NN|replaceConcept NN|？ NN
+15地理位置 NN|replaceLocal NN|有多少 NN|replaceConcept NN|？ NN
+15地理位置 NN|replaceLocal NN|总共有多少 NN|replaceConcept NN|？ NN
+15地理位置 NN|replaceLocal NN|总共是多少 NN|replaceConcept NN|？ NN
+
+地理位置一组有多少口井筒？
+16地理位置 NN|replaceLocal NN|有多少 NN|口 NN|replaceConcept NN|？ NN
+16地理位置 NN|replaceLocal NN|总共有多少 NN|口 NN|replaceConcept NN|？ NN
+16地理位置 NN|replaceLocal NN|总共是多少 NN|口 NN|replaceConcept NN|？ NN
+
+地理位置是一组的有哪些井筒？（多了问号）
+17地理位置 NN|是 NN|replaceLocal NN|的 NN|有哪些 NN|replaceConcept NN|？ NN
+17地理位置 NN|是 NN|replaceLocal NN|的 NN|有多少 NN|replaceConcept NN|？ NN
+17地理位置 NN|是 NN|replaceLocal NN|的 NN|总共有多少 NN|replaceConcept NN|？ NN
+17地理位置 NN|是 NN|replaceLocal NN|的 NN|总共是多少 NN|replaceConcept NN|？ NN
+
+地理位置是一组的有多少口井筒？
+18地理位置 NN|是 NN|replaceLocal NN|的 NN|有多少 NN|口 NN|replaceConcept NN|？ NN
+18地理位置 NN|是 NN|replaceLocal NN|的 NN|总共有多少 NN|口 NN|replaceConcept NN|？ NN
+18地理位置 NN|是 NN|replaceLocal NN|的 NN|总共是多少 NN|口 NN|replaceConcept NN|？ NN
+
+地理位置是一组的井筒有哪些？（多了问号）
+19地理位置 NN|是 NN|replaceLocal NN|的 NN|replaceConcept NN|有哪些 NN|？ NN
+19地理位置 NN|是 NN|replaceLocal NN|的 NN|replaceConcept NN|有多少 NN|？ NN
+19地理位置 NN|是 NN|replaceLocal NN|的 NN|replaceConcept NN|总共有多少 NN|？ NN
+19地理位置 NN|是 NN|replaceLocal NN|的 NN|replaceConcept NN|总共是多少 NN|？ NN
+
+地理位置是一组的井筒有多少口？（多了问号）
+20地理位置 NN|是 NN|replaceLocal NN|的 NN|replaceConcept NN|有多少 NN|口 NN|？ NN
+20地理位置 NN|是 NN|replaceLocal NN|的 NN|replaceConcept NN|总共有多少 NN|口 NN|？ NN
+20地理位置 NN|是 NN|replaceLocal NN|的 NN|replaceConcept NN|总共是多少 NN|口 NN|？ NN

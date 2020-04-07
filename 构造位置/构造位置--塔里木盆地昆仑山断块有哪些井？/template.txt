@@ -1,2 +1,78 @@
-replaceLocal NN|有 NN|哪 NN|些 NN|replaceConcept NN
-replaceLocal NN|有 NN|多 NN|少 NN|replaceConcept NN
+#一组有哪些井筒
+1replaceLocal NN|replaceMethod NN|replaceConcept NN
+
+
+#一组有那些口井筒
+2replaceLocal NN|replaceMethod NN|口 NN|replaceConcept NN
+
+
+#一组的井筒有哪些
+3replaceLocal NN|的 NN|replaceConcept NN|replaceMethod NN
+
+
+#一组的井筒有哪些口
+4replaceLocal NN|的 NN|replaceConcept NN|replaceMethod NN|口 NN
+
+
+#一组有哪些井筒?(多了问号）
+5replaceLocal NN|replaceMethod NN|replaceConcept NN|？ NN
+
+
+
+#一组有哪些口井筒?(多了问号）
+6replaceLocal NN|replaceMethod NN|口 NN|replaceConcept NN|？ NN
+
+
+#一组的井筒有哪些?（多了问号）
+7replaceLocal NN|的 NN|replaceConcept NN|replaceMethod NN|？ NN
+
+
+#一组的井筒有哪些口?（多了问号）
+8replaceLocal NN|的 NN|replaceConcept NN|replaceMethod NN|口 NN|？ NN
+
+
+#构造位置一组有哪些井筒
+9构 NN|造 NN|位 NN|置 NN|replaceLocal NN|replaceMethod NN|replaceConcept NN
+
+
+#构造位置一组有哪些口井筒
+a构 NN|造 NN|位 NN|置 NN|replaceLocal NN|replaceMethod NN|口 NN|replaceConcept NN
+
+
+#构造位置是一组的有哪些井筒
+b构 NN|造 NN|位 NN|置 NN|是 NN|replaceLocal NN|的 NN|replaceMethod NN|replaceConcept NN
+
+
+#构造位置是一组的有哪些口井筒
+c构 NN|造 NN|位 NN|置 NN|是 NN|replaceLocal NN|的 NN|replaceMethod NN|口 NN|replaceConcept NN
+
+#构造位置是一组的井筒有哪些
+d构 NN|造 NN|位 NN|置 NN|是 NN|replaceLocal NN|的 NN|replaceConcept NN|replaceMethod NN
+
+
+#构造位置是一组的井筒有哪些口
+e构 NN|造 NN|位 NN|置 NN|是 NN|replaceLocal NN|的 NN|replaceConcept NN|replaceMethod NN|口 NN
+
+
+#构造位置一组有哪些井筒？（多了问号）
+f构 NN|造 NN|位 NN|置 NN|replaceLocal NN|replaceMethod NN|replaceConcept NN|？ NN
+
+
+#构造位置一组有哪些口井筒？
+g构 NN|造 NN|位 NN|置 NN|replaceLocal NN|replaceMethod NN|口 NN|replaceConcept NN|？ NN
+
+
+#构造位置是一组的有哪些井筒？（多了问号）
+h构 NN|造 NN|位 NN|置 NN|是 NN|replaceLocal NN|的 NN|replaceMethod NN|replaceConcept NN|？ NN
+
+
+#构造位置是一组的有哪些口井筒？
+i构 NN|造 NN|位 NN|置 NN|是 NN|replaceLocal NN|的 NN|replaceMethod NN|口 NN|replaceConcept NN|？ NN
+
+
+#构造位置是一组的井筒有哪些？（多了问号）
+j构 NN|造 NN|位 NN|置 NN|是 NN|replaceLocal NN|的 NN|replaceConcept NN|replaceMethod NN|？ NN
+
+
+#构造位置是一组的井筒有哪些口？（多了问号）
+k构 NN|造 NN|位 NN|置 NN|是 NN|replaceLocal NN|的 NN|replaceConcept NN|replaceMethod NN|口 NN|？ NN

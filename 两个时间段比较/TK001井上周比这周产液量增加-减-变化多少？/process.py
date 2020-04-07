@@ -65,7 +65,7 @@ with open("result.txt","w",encoding="utf-8") as resultFile:
                             line=line[1:]
                             splitWords = line.split("|")
                             newLine = newInstance +"|"+ tmpTime[0] + "|" + splitWords[2] + "|" + tmpTime[
-                                1] + "|" + newAttribute +"|"+ "|" + splitWords[5] + "|" + splitWords[6] + "|" + splitWords[
+                                1] + "|" + newAttribute +"|"+ splitWords[5] + "|" + splitWords[6] + "|" + splitWords[
                                           7] + "|" + splitWords[8]
 
                         elif(line.startswith("*")):

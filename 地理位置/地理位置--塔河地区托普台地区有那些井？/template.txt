@@ -1,2 +1,78 @@
-replaceLocal NN|有 NN|哪 NN|些 NN|replaceConcept NN
-replaceLocal NN|有 NN|多 NN|少 NN|replaceConcept NN
+#一组有哪些井筒
+1replaceLocal NN|replaceMethod NN|replaceConcept NN
+
+
+#一组有那些口井筒
+2replaceLocal NN|replaceMethod NN|口 NN|replaceConcept NN
+
+
+#一组的井筒有哪些
+3replaceLocal NN|的 NN|replaceConcept NN|replaceMethod NN
+
+
+#一组的井筒有哪些口
+4replaceLocal NN|的 NN|replaceConcept NN|replaceMethod NN|口 NN
+
+
+#一组有哪些井筒?(多了问号）
+5replaceLocal NN|replaceMethod NN|replaceConcept NN|？ NN
+
+
+
+#一组有哪些口井筒?(多了问号）
+6replaceLocal NN|replaceMethod NN|口 NN|replaceConcept NN|？ NN
+
+
+#一组的井筒有哪些?（多了问号）
+7replaceLocal NN|的 NN|replaceConcept NN|replaceMethod NN|？ NN
+
+
+#一组的井筒有哪些口?（多了问号）
+8replaceLocal NN|的 NN|replaceConcept NN|replaceMethod NN|口 NN|？ NN
+
+
+#地理位置一组有哪些井筒
+9地 NN|理 NN|位 NN|置 NN|replaceLocal NN|replaceMethod NN|replaceConcept NN
+
+
+#地理位置一组有哪些口井筒
+a地 NN|理 NN|位 NN|置 NN|replaceLocal NN|replaceMethod NN|口 NN|replaceConcept NN
+
+
+#地理位置是一组的有哪些井筒
+b地 NN|理 NN|位 NN|置 NN|是 NN|replaceLocal NN|的 NN|replaceMethod NN|replaceConcept NN
+
+
+#地理位置是一组的有哪些口井筒
+c地 NN|理 NN|位 NN|置 NN|是 NN|replaceLocal NN|的 NN|replaceMethod NN|口 NN|replaceConcept NN
+
+#地理位置是一组的井筒有哪些
+d地 NN|理 NN|位 NN|置 NN|是 NN|replaceLocal NN|的 NN|replaceConcept NN|replaceMethod NN
+
+
+#地理位置是一组的井筒有哪些口
+e地 NN|理 NN|位 NN|置 NN|是 NN|replaceLocal NN|的 NN|replaceConcept NN|replaceMethod NN|口 NN
+
+
+#地理位置一组有哪些井筒？（多了问号）
+f地 NN|理 NN|位 NN|置 NN|replaceLocal NN|replaceMethod NN|replaceConcept NN|？ NN
+
+
+#地理位置一组有哪些口井筒？
+g地 NN|理 NN|位 NN|置 NN|replaceLocal NN|replaceMethod NN|口 NN|replaceConcept NN|？ NN
+
+
+#地理位置是一组的有哪些井筒？（多了问号）
+h地 NN|理 NN|位 NN|置 NN|是 NN|replaceLocal NN|的 NN|replaceMethod NN|replaceConcept NN|？ NN
+
+
+#地理位置是一组的有哪些口井筒？
+i地 NN|理 NN|位 NN|置 NN|是 NN|replaceLocal NN|的 NN|replaceMethod NN|口 NN|replaceConcept NN|？ NN
+
+
+#地理位置是一组的井筒有哪些？（多了问号）
+j地 NN|理 NN|位 NN|置 NN|是 NN|replaceLocal NN|的 NN|replaceConcept NN|replaceMethod NN|？ NN
+
+
+#地理位置是一组的井筒有哪些口？（多了问号）
+k地 NN|理 NN|位 NN|置 NN|是 NN|replaceLocal NN|的 NN|replaceConcept NN|replaceMethod NN|口 NN|？ NN
